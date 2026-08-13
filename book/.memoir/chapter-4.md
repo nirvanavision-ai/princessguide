@@ -106,15 +106,31 @@ night more fun for everyone at the table.
 **The bad one:** **"FUCK MY BABY MAMA."** Her verdict: *"That was a Booby Trap,
 and we left as soon as I got the sign."*
 
-<sub>**Two corrections from the screenshot, 2026-08-13.** The sign reads *fuck
-MY baby mama*, not "your" — which is worse, and funnier, because it's a man
-broadcasting his own domestic situation to a room. And **"Booby Trap" is the
-venue**, a Miami club, not a metaphor. I'd read it as "that was a trap." It
-wasn't. Photo not reproduced anywhere per `voice/boundaries.md`; the sign text
-is enough.</sub>
+Her correction, 2026-08-13:
 
-<sub>Sent by Rose on Saturday 16 May with the caption *"Having Angie
+> **"But I am a woman, I can't possibly be a baby mama."**
+
+<sub>**This is the actual story and it's better than the one I first wrote.** The
+sign wasn't hers and could not have been. It's a **stock sign** — a club with a
+stack of pre-made LEDs handed her one off the pile, and the one they handed her
+made no sense for the person holding the table. She didn't choose it. It was
+issued to her.</sub>
+
+<sub>Which reframes the whole beat. The complaint isn't that the sign was crude.
+It's that **nobody was paying attention.** Same night, same room: the 1942 came
+out warm, the singles didn't move, *"it was boring."* A generic sign is not a
+taste failure, it's a service failure, and it belongs in the same column as the
+temperature of the tequila.</sub>
+
+<sub>Corrections logged: *fuck **my** baby mama*, not "your." **Booby Trap is the
+venue**, a Miami club, not a metaphor — I'd read it as "that was a trap." Photo
+not reproduced anywhere per `voice/boundaries.md`; the sign text is enough.</sub>
+
+<sub>Screenshot sent by Rose, Saturday 16 May, captioned *"Having Angie
 withdrawals."*</sub>
+
+**Open:** did you order a custom sign and get handed that one instead, or did
+they just bring it out unasked with the bottle?
 
 **The rule the contrast produces:** a bottle sign is an invitation or it's a
 liability. *Dance bitches* points outward and gives the room something to do.
