@@ -1,0 +1,335 @@
+# Chapter Specifications (Locked)
+
+Seven chapters. Filenames, titles, and sign-offs do not change. The section
+skeletons below are the required beats — you may add a section, reorder within
+a chapter for flow, or rename a heading in voice, but every listed beat must
+appear somewhere in the finished chapter.
+
+Word target: 1,400–2,200 each. Every chapter needs at least two memoir
+positions (filled or placeholder) and a closing **Princess Protocol** checklist.
+
+---
+
+## Chapter 1 — `book/chapter-1-glowup.md`
+
+**Title:** The 24-Hour Glow-Up & The Universal City Codes
+**Sign-off:** `*Stay shiny, stay shady.*`
+
+**Thesis beat:** The night is won the day before. Everyone else starts getting
+ready at 9 p.m.; you started at 9 a.m. yesterday. That gap is the whole book.
+
+**Required beats:**
+
+1. **The T-Minus 24 Timeline.** A literal hour-by-hour table. Anchor points:
+   T-24 sleep and the last real meal; T-18 hydration begins; T-12 nails/lashes/
+   tan cure time — anything that needs to *set* happens today, not tonight;
+   T-8 wake, protein, no salt; T-6 hair; T-4 the fitting; T-2 makeup; T-90 the
+   Two-Lap Shoe Test; T-60 the bag load-out; T-0 the car is already downstairs.
+2. **Hydration & IV drips.** Framed as logistics: booking the mobile IV concierge
+   *the day before* because same-day availability at 6 p.m. on a Saturday is a
+   fantasy. Electrolytes vs. plain water. The rule that dehydration is what
+   actually ends nights — not the night itself. Note plainly that a drip is a
+   medical service, it goes through a licensed provider, and anyone who won't
+   ask about your medications isn't one.
+3. **The Fitting, not the outfit.** Revolve/Reformation/rental logic. Order three
+   sizes, keep one, return within the window — the return window is a logistics
+   deadline like any other. Sit down in it. Raise both arms. Photograph it under
+   flash, because club lighting is 90% flash and fabric lies in daylight.
+4. **Footwear doctrine.** Chunky platforms and rave boots over stilettos, argued
+   on physics: surface area, ankle angle, and the fact that a platform survives
+   a sticky floor, a curb, and a 3 a.m. sprint. The Two-Lap Test. Backup flats
+   live in the car, not the bag. Never break in a new shoe on a live night.
+5. **Universal City Behavioral Codes.** The chapter's centerpiece — a comparative
+   table plus a short read on each:
+   - **Los Angeles.** Door culture is a social credit check. Arrive *early*
+     (11:15, not 12:30). Small groups. The door reads the group, not the girl.
+     Your host's name is the password and you say it once, calmly.
+     Nobody is impressed by anything. Being unimpressed back is the local dialect.
+   - **Las Vegas.** Security is real security — wanding, bag checks, and a
+     one-year property-wide ban for anything that turns up. Casino floors are
+     surveilled end to end. The ban is the operative threat, not the fine.
+     Distances are a lie; that walk is fifteen minutes indoors. Shoes matter here
+     more than anywhere.
+   - **Miami.** Sparkle is the dress code, and it is enforced. Nothing starts
+     before 1 a.m. and pretending otherwise marks you as visiting. Heat and
+     humidity are a styling constraint: setting spray, hair that survives, no
+     fabric that shows a single drop.
+6. **High-energy substance awareness.** Written cold and operational, in the
+   voice, no lecture: never leave a drink, never accept an open one, lid or hand
+   over the glass on the move. Know what's in what you're handed. Know the
+   state's laws before you're standing in front of a wand — in Nevada a search
+   at the door is routine and what it finds ends in a ban, an arrest, or both,
+   and either way someone else is now running your night. Eat. Hydrate on a
+   schedule. The verdict: the goal is to leave on your own feet, in your own
+   shoes, with your own phone.
+
+**Memoir positions:** the worst door rejection and what she learned; the shoe
+that betrayed her.
+
+---
+
+## Chapter 2 — `book/chapter-2-homebase.md`
+
+**Title:** The Home Base Sanctuary & The Micro-Purse Arsenal
+**Sign-off:** `*Your bag is your vault, darling.*`
+
+**Thesis beat:** The apartment is mission control. A night launched from chaos
+stays chaotic all night. You cannot fix at 1 a.m. what you failed to stage at 8.
+
+**Required beats:**
+
+1. **The Launchpad.** The physical staging area — a defined surface, not "the
+   couch." Chilled Fiji (chilled, never frozen, never room temp) waiting for
+   departure *and* for return. Lighting set. One mirror, full length, correctly
+   lit. The pre-game playlist that ends when the car arrives.
+2. **The Return State.** The most-skipped discipline in the book: staging the
+   apartment for 4 a.m. before you leave at 10 p.m. Water bedside, makeup wipes
+   reachable, a lamp on so you're not fumbling for a switch, robe out, phone
+   charger plugged in and visible, something salty in reach. Future You is a
+   guest. Host her.
+3. **Legal & safety stash policy.** Direct and unsentimental: nothing travels
+   that you would not hand to a security guard yourself. In Vegas a bag check
+   is standard, the property-wide ban runs a full year, and the arrest is a real
+   outcome — Nevada does not treat this as a formality. The cost accounting: one
+   confiscated item can end venue access across an entire ownership group, which
+   in Vegas is most of the Strip. Frame as risk math, not morality. No sourcing
+   or concealment content — that's for people whose logistics belong to someone
+   else.
+4. **The Emergency Contact Card.** Two names, actually reachable, actually awake.
+   One local, one who knows your medical basics. Written down on physical paper
+   in the bag, because a dead phone is the scenario the contact exists for.
+   Location sharing on with one named person, with an end time set. The
+   check-in that is a real protocol: text on arrival, text on departure.
+5. **The Micro-Purse Arsenal.** The chapter's showpiece. A tiered load-out table:
+   - **Non-negotiable:** ID (in the bag, never in the phone case, never in the
+     shoe), one card, cash for tips in small bills, phone, keys, lip.
+   - **The Save-The-Night tier:** blotting papers, mints, a compact battery bank
+     with the *correct* cable, blister patches, a folded flat, hair tie on the
+     inside strap not the wrist, safety pin, mini setting spray.
+   - **Banned from the bag:** a full-size anything, loose change, three lipsticks
+     when one is the answer, receipts, other people's phones.
+   - The Weight Rule: if the strap leaves a mark by midnight, the bag is wrong.
+   - The Chair Rule: the bag never touches the floor and never leaves the body.
+
+**Memoir positions:** the night the bag saved her; the thing she used to carry
+and no longer does.
+
+---
+
+## Chapter 3 — `book/chapter-3-transport.md`
+
+**Title:** The Transport Protocol & The Communication Trio
+**Sign-off:** `*Never let them see you sit in the front seat.*`
+
+**Thesis beat:** Transport is where amateurs are exposed. Arrival is a
+performance with a load-in, and the car is the stage door.
+
+**Required beats:**
+
+1. **The Vehicle.** Black SUV, booked ahead, on standby for the whole night —
+   not summoned per leg. Why standby beats rideshare: no surge, no cancellation
+   at 2 a.m., no stranger's aux, and a driver who knows which entrance. The cost
+   framed honestly, then divided across the group, at which point it's cheaper
+   than the argument you'd otherwise have in a parking structure.
+2. **Seating doctrine.** The title rule, explained: the front seat is the
+   handler's, the driver's, or nobody's. Rear passenger side is the exit seat —
+   curbside, camera side, and you step out into the room rather than into
+   traffic. Assign seats before departure. The step-out itself: bag first, then
+   both feet, then stand. Never a hand on the doorframe.
+3. **The Sober Handler.** Not a babysitter — an operations lead who is *paid or
+   rotated*, holds the car's number, the host's number, the reservation, and
+   the group's actual headcount. Rotate the role across nights so it's a duty,
+   not a punishment. The handler's one hard authority: the handler calls the
+   end of the night and the call is not negotiated on the sidewalk.
+4. **The Console.** Cabin build-out as ritual: the touchscreen playlist queued
+   before departure, not chosen at the light. Sequenced by leg — the arrival set
+   is not the between-venues set. Volume down for the last two minutes before
+   arrival so the group steps out talking, not shouting.
+5. **The Cooler.** Chilled water, something salty, something with sugar, gum,
+   cold towels in a bag. What you eat in the car is the meal that decides how the
+   night ends. The 1 a.m. cooler is worth more than the 10 p.m. cocktail.
+6. **The Communication Trio.** The chapter's operational core — the triangle of
+   **security ↔ driver ↔ VIP host**, and the rule that the three of them must be
+   able to reach *each other*, not only you. A named group thread before you
+   leave. The driver knows the exact door and the pickup pin (never "out front"
+   — a specific corner, because "out front" in Vegas is a quarter mile of
+   identical curb). The host knows the arrival window and the headcount, updated
+   the moment it changes. Security knows the car and the exit plan. The failure
+   mode you're preventing: three people each holding a third of the plan while
+   you stand on a curb in the cold, doing the integration yourself.
+
+**Memoir positions:** the transport disaster that made her book standby; the
+handler who saved a night.
+
+---
+
+## Chapter 4 — `book/chapter-4-clubplaybook.md`
+
+**Title:** The VIP Playbook & The Romance Variable
+**Sign-off:** `*Boyfriends are temporary, VIP tables are forever.*`
+
+**Thesis beat:** A table is a negotiated commercial arrangement wearing a party
+hat. Read the contract. Everyone else is improvising.
+
+**Required beats:**
+
+1. **Recon.** Reading the menu online before you go — bottle pricing, minimum,
+   tax and the service charge that is *not* the tip, and the fact that the
+   minimum is a spend floor and not an entry fee. Table map literacy: dance-floor
+   adjacency vs. the DJ booth vs. the table that looks great and is next to the
+   service corridor. Reviews read for the operational tells: how many complaints
+   mention the check.
+2. **The Host Relationship.** The $300 upfront handshake for front-of-line, what
+   it actually buys (time, position, the host's attention for the rest of the
+   night), and — critically — that it buys a *relationship*, not a transaction.
+   One host, cultivated over months, outperforms cold-tipping five. Text the host
+   on a Tuesday, not only on a Saturday at 11:50 p.m. Names, remembered. Tip
+   discreetly and in cash. Never announce the number.
+3. **Arrival choreography.** The window, the headcount honesty (padding a
+   headcount is how you lose a host), the ratio math the door is actually running,
+   and the calm single statement of your host's name.
+4. **The Bottle Sign.** The custom LED sign as comedy asset. Rules: short, legible
+   at distance, funny about *you*, never about a stranger in the room, never a
+   phone number. A sign that punches down is the tell of a bad table.
+5. **The Table Economy.** Who pours. The tab split settled *before* the first
+   bottle arrives, in writing, in the group thread — the single highest-yield
+   thing in the chapter. Guests at your table are guests; guests who invite six
+   more are not. Closing the check before the lights, never after.
+6. **The Romance Variable.** Navigating partners vs. girls' nights: the
+   pre-brief, the difference between a partner who comes along and a partner who
+   supervises, and the specific rule that a girls' night with a boyfriend at the
+   table is not a girls' night, it's a hostage situation with better lighting.
+   Managing ego-driven drama at the table — the man who needs to "talk to the
+   DJ," the friend's boyfriend who orders on someone else's tab, the guest who
+   makes the check a competition. De-escalation as an operational skill: never
+   argue in the room, hand it to the host, relocate the person not the party.
+   The verdict: you are the general manager of the table, and GMs don't have
+   scenes, they have staffing decisions.
+
+**Memoir positions:** the best/worst table night; a romance-variable incident.
+
+---
+
+## Chapter 5 — `book/chapter-5-royaltyrules.md`
+
+**Title:** Royalty Rules — You Can Be a Princess, But Don't Be Rude
+**Sign-off:** `*Manners cost nothing; exclusivity costs everything.*`
+
+**Thesis beat:** The nastiest person in the room is always the one with the least
+power. Real status is quiet, warm, and completely immovable.
+
+**Required beats:**
+
+1. **The Staff Doctrine.** Bartenders, servers, security, valets, bathroom
+   attendants, the busser nobody looks at. Names learned and used. Tipping as
+   infrastructure, not generosity. The direct claim: being rude to staff is the
+   single loudest signal that you have never actually been anywhere. Staff talk
+   to each other, across venues, and the industry is smaller than the city.
+2. **Warmth as strategy.** Charm is not submission. The precise distinction
+   between being *nice* (agreeing to things) and being *kind* (treating people
+   well while agreeing to nothing). Warmth costs you nothing and buys you the
+   entire room.
+3. **Ice-cold boundaries.** The No that doesn't escalate: short, unexplained,
+   repeated verbatim without new information. Why explaining a No invites
+   negotiation. The Three-Strikes exit script. Physical boundaries — the arm, the
+   move to the other side of the table, the handoff to security, which is what
+   security is *for* and using it is not a favor you're asking.
+4. **Exclusivity, correctly understood.** Who gets your number, your table, your
+   Tuesday. Access as a finite budget you spend deliberately. The gate is on the
+   invite list, never in your tone.
+5. **Group governance.** You are responsible for who you bring. The friend who is
+   rude to a server is your problem to handle, once, quietly. The person who does
+   not get invited again, and the fact that you never announce it.
+6. **The Grace Clause.** How to be wrong: the immediate, unhedged apology; the
+   over-tip that isn't an apology substitute; never litigating it in the room.
+
+**Memoir positions:** a staff member she'll never forget; a boundary she held.
+
+---
+
+## Chapter 6 — `book/chapter-6-donts.md`
+
+**Title:** Emergencies, Curveballs & The Definitive Don'ts
+**Sign-off:** `*Tragedies happen, but hot messes are entirely optional.*`
+
+**Thesis beat:** Everything on this list will happen to you. The difference
+between a story and a disaster is whether you'd already decided what to do.
+
+**Required beats:**
+
+1. **The Broken Heel.** Triage in order: the car's backup flats, the strap
+   rerouted, the venue's front desk (they have tape and more than you'd think),
+   the exit with dignity. Never barefoot. Never barefoot. The floor of a
+   nightclub at 2 a.m. is a biohazard and a lawsuit.
+2. **The Spilled Drink.** Ninety-second protocol by substance: red wine, clear
+   liquor, anything with sugar. Cold water and blotting, never rubbing, never a
+   dryer. What to do about the person who spilled it, which is nothing —
+   the reaction is the only part of this the room will remember.
+3. **Beauty Failures.** Lash lift, lipstick migration, the sweat line, the hair
+   that has decided. Each with a fix executable in a bathroom in under two
+   minutes with what's in the micro-purse. Cross-reference Chapter 2 — this is
+   the chapter that proves the load-out.
+4. **Wardrobe Failures.** Seam, strap, zipper, hem, and the visible-through-flash
+   fabric you didn't test. Safety pin doctrine. When a dress is done and the
+   correct answer is the exit.
+5. **The Curveballs.** Phone dead. Card declined. Friend disappeared — a real
+   escalation ladder: last-known, the bathroom, the group thread, the host, the
+   handler, security, and the threshold at which you stop being polite about it.
+   Someone over-served: water, a seat away from the noise, the handler, the car,
+   and the fact that you do not leave them with a stranger, ever, for any reason.
+6. **The Definitive Don'ts.** The list the book is remembered for. Numbered,
+   absolute, unhedged, no rationale longer than a line. Must include: barefoot;
+   crying in the main room (there is a correct room); arguing with a doorman;
+   arguing with security, ever; drinking anything you didn't watch get poured or
+   left unattended; leaving with someone nobody in your group has met without
+   telling a named person where and with whom; posting the table's tab; posting
+   anyone's face without asking; the front seat; the third lap in a bad shoe;
+   handing your ID to a stranger; running your own night when you're not in a
+   state to; being rude to staff; and staying past the moment the night is over.
+   Close on the last one — knowing when it's finished is the whole skill.
+
+**Memoir positions:** the emergency she handled beautifully; a Don't she learned
+the hard way.
+
+---
+
+## Chapter 7 — `book/chapter-7-afterparty.md`
+
+**Title:** The After-Party Protocol & The Morning Reign
+**Sign-off:** `*XOXO, keep your crown adjusted.*`
+
+**Thesis beat:** The after-party is a *product*, and it was built before you
+left. Nobody has ever successfully improvised one at 3 a.m.
+
+**Required beats:**
+
+1. **Sonos Pre-Flight.** The chapter's signature bit, played completely straight:
+   before you leave at 10 p.m., you test the system. Speakers powered and on the
+   network; the group actually grouped; volume pre-set per room so nothing opens
+   at 100; the playlist downloaded locally because 3 a.m. wifi is a coin flip;
+   one designated phone with control and *one only*; guest wifi written on a card
+   so nobody is reading a 40-character password aloud. The failure you are
+   preventing: six people, one speaker, and a Bluetooth argument. Run the
+   sixty-second test. Every time.
+2. **The Guest List.** After-party capacity is a real number with a real ceiling.
+   Who gets invited (a name you know), who invites (only you), and the closed
+   door. Neighbors and the noise curfew as a hard constraint — the after-party
+   that ends in a complaint ends the *venue*, and the venue is your home.
+3. **The Environment.** Lighting down and warm. Water visible before alcohol.
+   Food that is real: the pizza order placed *before* the car leaves the club,
+   because the 3 a.m. delivery window is a lottery you enter early. Seating
+   arranged so the room has a shape.
+4. **The Close.** How to end it — the playlist that decelerates on purpose, the
+   lights up, the cars pre-booked for the exact time you plan to be done. Nobody
+   drives. Guests who shouldn't leave get a couch, a blanket, and water. The
+   host's last job is a headcount.
+5. **Recovery Rituals.** The 4 a.m. non-negotiables in order: water, makeup off
+   (all of it — the pillowcase is not a wipe), shoes off and *elevated*, phone on
+   the charger, alarm reconsidered. Electrolytes before sleep, not after.
+6. **Morning-After Glamour.** The reign continues. Cold on the face, the slow
+   protein breakfast, sunglasses as a legitimate device, the reply-to-texts hour,
+   the honest audit — what worked, what to change, which shoe is retired. Log it.
+   The book is a system and the system improves. Close the loop back to Chapter 1:
+   the next glow-up starts now, which is the only reason any of this works.
+
+**Memoir positions:** the greatest after-party she ever ran; a morning-after ritual.
