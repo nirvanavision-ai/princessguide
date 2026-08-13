@@ -123,17 +123,63 @@ bottle order, and the friends' feet.
 *"Easily and happily"* is the load-bearing phrase — not just that they earn, but
 that earning it isn't a grind that night.
 
-**Note:** this makes Scarlett's a strip club, which the earlier notes didn't
-establish. Ask before it goes in print — it changes what kind of book this reads
-as, and that's her decision, not mine.
+**Approved for print, 2026-08-13:** *"And yes, Scarlett's go in."*
+
+---
+
+## Two more rules, from voice note 004
+
+### Don't pad criticism with disclaimers
+
+Her impression of the thing she refuses to do:
+
+> *"'I love so-and-so, and I think the world of them, blah blah blah — but it
+> really hurt me that Maya said this. But no no no, don't worry, I love her, just
+> so you know, I think she's a great person.'* **No. That's fucked up. You
+> already know that I love her. I don't need to do that.**"
+>
+> *"At least not with my inner circle."*
+
+**The rule:** if your people know you love them, you don't open a complaint with
+a loyalty oath. The padding is the tell — it's insurance, and buying insurance
+against your own friends is the unkind part. Say the thing. They already know.
+
+This is *not being extra* pointed at conflict, and it pairs directly with the
+gratitude rule earlier in the chapter. Same shape both times: **one clean
+exchange, no performance around it.** Thank someone once. Say the hard thing
+once. The extra rounds are for the speaker's comfort, not the listener's.
+
+<sub>Note the qualifier — *"at least not with my inner circle."* The rule is
+about earned closeness. With people who haven't earned it, the padding may be
+doing real work. Worth writing that distinction rather than flattening it.</sub>
+
+### We don't talk bad about ourselves in my house
+
+> **"We don't 'should.' We should not say shit to ourselves. We don't 'should'
+> ourselves."**
+>
+> **"We don't talk bad about ourselves in my house. If you do, you leave."**
+
+Print as written. It's the warmest thing she's said and it does something the
+book badly needed: it's **encouraging with no affirmation-speak in it at all.**
+She never tells anyone she's a queen or that she deserves anything. She threatens
+to throw her out of the kitchen.
+
+That's the *treat people well, including yourself* half of the brief, finally in
+her own voice rather than as a stated value. Belongs early in the chapter — it
+sets up why the boundaries later are generous rather than cold.
+
+Related, and on the never-say list: **"should"**, plus guilt, blame and shame
+words, and apologising when it isn't necessary.
 
 ---
 
 ## Open follow-ups
 
-- Scarlett's in print — yes or no?
-- The Australian-accent line — keep or cut?
-- Was there a moment you learned this the hard way, before you got good at it?
+- The Australian-accent line — keep or cut? It's the one line here that punches
+  at a category of person rather than a behaviour.
+- Was there a moment you learned the asking-someone-to-leave thing the hard way,
+  before you got good at it?
 
 ---
 **Used in:** *(not yet drafted)*

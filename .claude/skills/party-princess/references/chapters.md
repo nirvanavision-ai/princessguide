@@ -357,6 +357,30 @@ power. Real status is quiet, warm, and completely immovable.
    between being *nice* (agreeing to things) and being *kind* (treating people
    well while agreeing to nothing). Warmth costs you nothing and buys you the
    entire room.
+2b. **"We don't talk bad about ourselves in my house."** Open the chapter near
+   here, and print her lines as written: *"We don't 'should.' We should not say
+   shit to ourselves. We don't 'should' ourselves."* / **"We don't talk bad about
+   ourselves in my house. If you do, you leave."**
+   This is the *treat people well, including yourself* half of the brief in her
+   own voice, and it solves a problem the book had: it is **encouraging with zero
+   affirmation-speak.** She never tells anyone she's a queen or that she deserves
+   anything. She threatens to throw her out of the kitchen. Setting this up early
+   is what makes the boundaries later in the chapter read as generous rather than
+   cold.
+2c. **Don't pad criticism with disclaimers.** Her impression of the thing she
+   won't do: *"'I love so-and-so and I think the world of them, blah blah blah,
+   but it really hurt me that she said this — but no no no, don't worry, I love
+   her, I think she's a great person.'* **No. That's fucked up. You already know
+   that I love her. I don't need to do that."*
+   The rule: if your people know you love them, you don't open a complaint with a
+   loyalty oath. The padding is insurance, and buying insurance against your own
+   friends is the unkind part.
+   Same shape as the gratitude rule above — **one clean exchange, no performance
+   around it.** Thank someone once. Say the hard thing once. The extra rounds are
+   for the speaker's comfort, not the listener's. Keep her qualifier rather than
+   flattening it: *"at least not with my inner circle."* The rule is about earned
+   closeness; with people who haven't earned it, the padding may be doing real
+   work.
 3. **Ice-cold boundaries.** The No that doesn't escalate: short, unexplained,
    repeated verbatim without new information. Why explaining a No invites
    negotiation. The Three-Strikes exit script. Physical boundaries — the arm, the

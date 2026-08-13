@@ -43,6 +43,42 @@ security, the handler, and other people. Write the annoyed protocol well. Point
 at the existence of the other category without dramatising it, and without
 borrowing her story to do it.
 
+## Sex-life details
+
+Asked what else is off limits in print:
+
+> **"I guess sex-life details."**
+
+<sub>Voice note 004, 2026-08-13.</sub>
+
+**This resolves an open flag.** *"Dick"* — her answer to what she actually wants
+at 4 a.m. — stays out of the manuscript. It was funny in the room and it is a
+sex-life detail, and she has now answered the question she told me to stop
+asking. Recorded in `world.md`, not printed.
+
+Same test for anything adjacent: if it would be reported as a fact about her sex
+life, it doesn't go in, however good the line is.
+
+## Substance use tied to a named person
+
+Off limits. The book's substance material stays general, operational and
+harm-reduction shaped, exactly as `references/voice.md` specifies. It never
+attaches to a named friend, a named guest, or an identifiable night.
+
+<sub>Note this cuts one detail from the Ch. 5 face-saving script: her *"probably
+just too high, nervous"* was said **to** the guest as a generous excuse, not as a
+report about him. Keep it as dialogue, in her mouth, framed as her handing him a
+way out. Don't restate it in the narration as a fact about the man.</sub>
+
+## Scarlett's — approved
+
+> **"And yes, Scarlett's go in."**
+
+<sub>Confirmed 2026-08-13. The Miami strip club, and the staff-doctrine material
+that goes with it, is cleared for print. See `book/.memoir/chapter-5.md` — this
+is the warmest material in the knowledge base and it's now the spine of the Staff
+Doctrine section.</sub>
+
 ## Real people
 
 Standing rules, applied throughout:

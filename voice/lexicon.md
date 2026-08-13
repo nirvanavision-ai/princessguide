@@ -43,19 +43,32 @@ temperature on every page.
 
 | | |
 |---|---|
-| **What you call your friends** | |
-| **What you'd call the reader** | **babe · sis · girl** <sub>(captured 2026-08-13)</sub> |
+| **What you call your friends** | **Girl.** *"And don't you call your friends [that]? Yeah, I guess."* |
+| **What you'd call the reader** | **Girl** — landed on, voice note 004. *"Babe, sis, girl, like, all could be. Girl, or babe, I guess. By girl."* |
 
-<sub>Peer energy, texting register — a friend in the group chat, not an elder
-statesman. Note this sits slightly against the existing Ch. 2 sign-off *"Your
-bag is your vault, darling"*; darling stays there as a one-off flourish, but the
-running address through the prose is babe/sis/girl.</sub>
+<sub>**Girl is the primary.** Babe is the occasional variant. Same word you use on
+your actual friends, which is the point: the reader gets addressed the way the
+group chat gets addressed, not the way an audience gets addressed.</sub>
+
+<sub>Peer energy, texting register. Note this sits slightly against the Ch. 2
+sign-off *"Your bag is your vault, darling"* — darling stays there as a locked
+one-off, but the running address through the prose is **girl**.</sub>
 
 ## Intensifiers
 
-How you turn the volume up. Everyone has three or four and reuses them forever.
+You answered this by refusing the metaphor, and the refusal is better than any
+answer I was fishing for:
 
-<!-- e.g. "genuinely," "actually," "insane," "obsessed," "wildly," "so" -->
+> *"How do I make it more hype, or how do I turn the actual volume higher?… I
+> think it's literal, but you can say both."*
+
+> **"Make it louder, please. More bass."** · **"I need more bass."**
+
+<sub>Voice note 004. **Your intensifier is bass**, and it works in both registers
+at once — the literal request to a DJ and the figurative way you say a thing
+matters. Nobody else in this genre has an intensifier that is also their subject.
+Use it as a running device: *more bass* where another writer would put *so much*,
+and the bass-up/bass-down as the book's volume knob.</sub>
 
 -
 
@@ -63,19 +76,37 @@ How you turn the volume up. Everyone has three or four and reuses them forever.
 
 Just as important. If it's on this list I'll never put it in your mouth.
 
-<!-- Corporate, cringe, overused, or just not you. -->
+### Captured, voice note 004
 
--
--
+**"Should."** The big one, and you made it a rule rather than a preference:
+
+> **"We don't 'should.' We should not say shit to ourselves. We don't 'should'
+> ourselves."**
+
+Plus the whole family it belongs to: *guilt-trippy, blamey, shame words.* And
+**apologising when it isn't necessary** — which is the same instinct as not being
+extra, pointed inward.
+
+> **"We don't talk bad about ourselves in my house. If you do, you leave."**
+
+<sub>That's a house rule, it's print-ready as written, and it's the warmest and
+most quotable thing in the file. It also solves a problem the book had: how to be
+encouraging without a single word of affirmation-speak. You don't tell the reader
+she's a queen. You tell her to get out of your kitchen.</sub>
+
+> **"Bitch, don't cut my vibe."**
+
+**"Whore"** — named as a never.
+
 -
 
 ## Swearing
 
 | | |
 |---|---|
-| **Do you swear in writing?** | **Yes** — confirmed in voice note 001 |
+| **Do you swear in writing?** | **"Absolutely. Yeah, I do."** <sub>confirmed twice</sub> |
 | **Which ones, and how often** | *"that's just fucked up"* · *"annoyed the shit out of me"* — landed flat, as punctuation, not for shock |
-| **Anything off-limits in print** | |
+| **Anything off-limits in print** | **Sex-life details.** Also: substance use tied to a named person. See `boundaries.md`. |
 
 <sub>You swear the way people swear when they aren't performing: low-key, mid-
 sentence, and never as the punchline. The book will do the same — sparing, never
@@ -85,18 +116,32 @@ deployed for effect.</sub>
 
 Check what's true. Guessing is fine — samples will confirm.
 
-- [ ] I write in fragments. Often. Like this.
+- [x] **I write in fragments. Often. Like this.** <sub>confirmed, voice note 004</sub>
+- [x] **I ask rhetorical questions. Do I? Yes.** <sub>confirmed</sub>
+- [x] **I answer my own questions in the next line** <sub>*"I think I do that."*</sub>
 - [ ] I start sentences with *And* / *But* / *So*
-- [ ] I use dashes — a lot of them
 - [ ] I use ellipses... constantly
 - [ ] I write in lowercase when i'm being casual
 - [ ] I use ALL CAPS for emphasis
-- [ ] I ask rhetorical questions. Do I? Yes.
-- [ ] I use parentheses for asides (which is where my jokes live)
+- [ ] I use parentheses for asides
 - [ ] My sentences run long, comma after comma, until the thought is actually finished
 - [ ] I repeat a word for emphasis. Never. Never ever.
-- [ ] I answer my own questions in the next line
-- [ ] I use emoji in writing <!-- if yes: which ones -->
+- [ ] I use emoji in writing
+
+### No dashes. This one is a rule.
+
+> **"Not really — 'cause it makes it look like AI."**
+
+<sub>Voice note 004, on whether you use dashes. **You caught the single most
+reliable AI tell in modern prose**, and you caught it unprompted while reading a
+checkbox. The em-dash-heavy cadence is the giveaway, and a book about not being
+generic cannot be written in it.</sub>
+
+<sub>**Applied to the manuscript:** no em-dashes in the book's prose. Commas,
+full stops, and your own fragments do the work — that's what the fragment habit
+is *for*. A colon where a list genuinely follows. The rhythm you already have
+(long sentence, short sentence, fragment, verdict) doesn't need the dash and is
+better without it.</sub>
 
 **Anything else about your rhythm:**
 
@@ -139,6 +184,15 @@ you, and it lands as trying, which is a form of being extra.</sub>
 problem."* Flat, brief, closes the subject.</sub>
 
 **A line of yours you think is genuinely funny:**
+
+> **"Of course I'm a dictator of the music in my house. And anywhere else I could
+> be."**
+
+<sub>Voice note 004, offered as an example of how you'd describe something. It's
+the best demonstration in the file of your own rule — you weren't trying to be
+funny, you were being accurate, and the accuracy is the joke. Also thematically
+perfect: the one thing you're openly authoritarian about is the music. Strong
+candidate for a Ch. 7 pull quote, next to the Sonos protocol.</sub>
 
 ---
 

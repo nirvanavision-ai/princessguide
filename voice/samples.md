@@ -358,6 +358,100 @@ and screenshots. Not transcribed — it is logistics about finding material rath
 than material, and it contains the "no pictures" instruction now recorded in
 `boundaries.md`.</sub>
 
+### Voice note 004 — reading `lexicon.md` aloud
+
+<sub>Captured 2026-08-13. Two speakers, working through the lexicon workbook
+together. The most useful pass yet on the sentence fingerprint, and it produced
+the no-dashes rule, the bass intensifier, the never-say list, and the
+talk-bad-about-ourselves house rule. Excerpted to the lexicon-relevant portion;
+the full recording also covers group-chat hunting and personal conversation not
+transcribed here.</sub>
+
+```
+So lexicon, um... So Lexicon sentence fingerprint, right? So, signature phrases,
+things, you say, constantly, the ones friend would identify blindfolded. So
+extracted from voice, node. Dude, I'm on FaceTime with family. Okay, so... No.
+No, no, no. Okay, so then ranking out loud, so it says, you compare everything
+against Iran and leaderboard, doesn't top Jay-Z. it's not Josh. Also, it's not
+judge. Okay. So, um, okay, so this is head of mind, not just a phrase, and it's
+genuinely useful. The book can rank things constantly because that's already how
+you think, okay? Um, the gratitude, Pivot, mid list, unprompted, is that I've had
+a great year when I think about it. Okay. And it's only half of the year. So you
+arrive at joy by accident while doing something else. Then move on immediately
+without dwelling. I move on immediately without dwelling. That's the that's the
+warm register and it's much better than any deliberate uplift. Never write in,
+never write the sincere version of this, write this version. Yeah, yeah, yeah,
+good, good. And then, okay, terms to dress. How you talk to the reader. The book
+is the 2nd person. So this sets the temperature to every on every page. So, what
+you call your friend, and what you'd call the reader, and it says, babe, says,
+girl, like, all could be. Girl, or babe, I guess, by girl? And don't you call
+your friends? Yeah, I guess. And there is... Sin, right? I would... Girl. Okay.
+Now, intensifiers, how you turn the volume up? Everyone has three or four users,
+or uses them for, uh, everyone has three or four and reuses them forever. How you
+turn the volume up? How do I make it more hype, or how do I turn the actual
+volume higher? It just says, It's called intensifiers. How you turn the volume
+up? We can clarify a skip, okay? I think it means to. Then the base app all the
+way, based down. Is it literal, or is it just, like, get piped, like, piped up? I
+think it's literal, but you can say both. Like, see, it pays attention. I like
+how it says, oh, you said this, but that also means that. Keep that, you know,
+like... Make it louder, please. More bass. Where's my piece? Okay. Um, I need
+more bass. Words you'd never say, just as important.
+
+If this is on the list, I'll never put it in your mouth, for example. I'm whore.
+Okay. Um, I don't know. Never? Never say never. Should? Shouldn't, should. Yeah.
+What do you say about the suits? We don't should. We should not say shit to
+ourselves. We don't shoot ourselves. Or you guilt, trippy, blamey words, shape
+words. Okay. We're apologizing and we're not necessary. Or talk about, we don't
+talk bad about ourselves in my house. If you do, you leave. Okay. And bitch,
+don't cut my vibe. Okay. Um, how about, do you swear in writing? Absolutely.
+Okay. Yeah, I do. So, which ones and how often? So it's already pulled out
+something. That's just fucked up. annoyed that the shit out annoyed the shit out
+of me. Lended, it's a splendid flat as punctuation, not for shock. Which is good.
+Okay. Okay, so, or anything of limits in print? Uh. I guess sex, life, details.
+Okay. Or... Wait, substance use identified to a person? You can? Well, do you
+have any suggestions by the legs? I mean... Mm. I mean, like, the thing is, you
+just be you, like, you know, like, I can't say, oh, it better not trash dog, but
+if you just, like, you know, I mean, like, if, like, but I don't say that,
+though. Yeah, yeah, yeah, yeah, yeah. I know. You know, I love so and so, and I
+think the world is that, blah, blah, blah, blah. But it really hurt me that Maya
+said this, but no, no, no, no, don't worry. I love her, just so you know, I think
+she's a great person. No. That's fucked up. You already know that I love her. I
+don't need to do that. Yeah, okay. Okay. At least not with my inner circle. Okay,
+so sentence fingerprint. Check what's through. Guessing is fine. Samples will
+confirm. So, I write in fragments, always, often like this. I write in French, I
+write in fragments, often like this. Just check what's through. Yes, yes or no,
+like, you know. One, the first one, yes. Didn't have time to, you could just see,
+like, what's true was, you know, for example, I start sentences. I use all caps
+for emphasis. I use parentheses. You answer your own questions in the next line?
+think I do that. I use Imagin, writing? This is really, like... And is good. It
+makes me imagine, or, like, uh... Reflect. Yeah. Yeah. Probably sound like an
+assholt. No, no, but you can, like, this is just gonna be, like, a skeleton.
+Yeah. Yeah, no, but, like, just... Uh, it's kind of, like, the fun, it gives you
+the versions of your own style, and then you can go, like, and, like, you know,
+like, tweak it. It says math. I know. But it makes me think about, like, how I do
+communicate with people and the things I say and am I an asshole? Which is good.
+I don't think I'm an asshole, but I think his trade shooter kind of thing, but he
+also very, like, very, like, uh, what's the word, like, gracious about it? You
+know? Thank you. Um, Let's see. They ask rhetorical questions? Yeah. Uh... Use
+dishes? Uh... It just, you know, it will figure it out. Not really, 'cause it
+makes it look like AI. AI stolen. I use of dashes. Thanks a lot. Okay, how you
+write versus how you talk? Are they different? If yes, which one should the book
+sound like? For example, the jokes shape. Where the final, where the final lives
+for you? Dead pan, say the absurd thing completely straight, which is what you
+said before, not self-deprecating, observational. I just describe what's
+happening, it's already funny, exaggeration, turn it up to a 100. The turn, set
+it up nicely, but then uncut it. Or specificity, the exact detail isn't the joke.
+I don't know, a dealer's choice? ... Can I choose a few? ... Of course, I'm a
+dictator of the music in my house. And anywhere else I could be. Or that it
+sucks. So the book has 3 modes. Note how yours differ if they do. For example,
+1st instructional, which is checklist, protocol, timeline, storytelling, which is
+the memoir sections and worm, the care and boundaries material. What? What's that
+about? I have to pee really bad. Yeah, yeah, yeah, go.
+```
+
+<sub>**Register map still unanswered** — she was interrupted at exactly that
+question. Worth returning to.</sub>
+
 ---
 
 ## Anti-samples — writing that is NOT you

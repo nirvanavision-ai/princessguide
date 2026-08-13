@@ -153,6 +153,45 @@ it isn't finished.
 
 ## Sentence mechanics
 
+### No em-dashes. Author's rule.
+
+Asked whether she uses dashes, she said: *"Not really, 'cause it makes it look
+like AI."* She caught the single most reliable AI tell in modern prose,
+unprompted, while reading a checkbox. A book about not sounding generic cannot
+be written in the cadence that gives it away.
+
+Commas, full stops and fragments carry the load instead. That is what her
+fragment habit is *for*. A colon where a list genuinely follows. Her rhythm —
+long sentence, short sentence, fragment, verdict — never needed the dash.
+
+### Confirmed fingerprint
+
+- **Fragments. Often.** Confirmed.
+- **Rhetorical questions**, then **answering them in the next line.** Confirmed.
+- **"Okay."** as a reset beat, never as agreement. One-word paragraph. Free
+  rhythm; does the job of a section break without one.
+- **Ranking out loud** against a running leaderboard. Doesn't top, probably
+  topped it, it's up there.
+- **Swearing flat**, mid-sentence, as punctuation. Never the punchline.
+
+### Address
+
+**"Girl."** The same word she uses on her actual friends. Occasionally *babe*.
+Never *queen*, never *you deserve this*. (Locked exception: *darling* survives in
+the Chapter 2 sign-off.)
+
+### The intensifier is bass
+
+Asked how she turns the volume up, she refused the metaphor: *"How do I make it
+more hype, or how do I turn the actual volume higher? I think it's literal, but
+you can say both."* Then: ***"Make it louder, please. More bass."***
+
+Use it as a running device. *More bass* where another writer would reach for *so
+much*. Bass up and bass down as the book's volume knob. It's the only intensifier
+in this genre that's also the subject.
+
+### The rest
+
 - **Vary length hard.** Long, textured, comma-rich sentence. Then a short one.
   Then a fragment. The rhythm is the delivery.
 - **Concrete nouns beat adjectives.** Pull real ones from `voice/world.md`.
