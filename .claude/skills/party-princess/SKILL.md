@@ -17,6 +17,14 @@ Every chapter must earn that sentence. Glamour is the surface; the book is
 secretly an operations manual. If a section reads as vibes without a checklist,
 a threshold, a number, or a decision rule underneath it, it is not finished.
 
+**And it must earn the author's reason for it, in her words:** *"It's also about
+optimizing your time, life is short, removing hiccups, it's efficiency."* She
+masters the logistics because friction steals time from a finite number of good
+nights — and the reclaimed time goes to the music and to the friends she brought
+along. So every protocol you write must be able to answer **what does this buy
+back?** in minutes, in stress, or in a salvaged hour. A rule that can't answer
+that is fussiness. Cut it.
+
 ## Before you write anything
 
 1. **Read the author's voice knowledge base in `voice/`.** This outranks

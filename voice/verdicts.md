@@ -122,6 +122,38 @@ the operational rigor are the same instinct.</sub>
 
 ---
 
+## Why the logistics, actually
+
+> **"It's also about optimizing your time, life is short, removing hiccups,
+> it's efficiency."**
+
+<sub>Captured verbatim, 2026-08-13. **This is the thesis's missing half and it
+changes how every chapter gets argued.**</sub>
+
+<sub>Until now the book could have read as control for its own sake — a woman
+who likes a spreadsheet. It isn't that at all. The logistics exist because
+**life is short and every hiccup is stolen time.** The forty minutes lost
+arguing about a car on a curb, the hour in a bathroom line, the night that ends
+early over a shoe nobody tested — those are not inconveniences. They are
+subtractions from a finite number of good nights, and you don't get them
+back.</sub>
+
+<sub>So the arithmetic of the whole book is: *friction is the enemy of the good
+part.* Every checklist buys back minutes. Every protocol removes a hiccup before
+it happens. And what the reclaimed time gets spent on is the music, and her
+friends, and the part she actually came for.</sub>
+
+<sub>That reframes *true princesses don't outsource logistics, they master them*
+from a flex into something almost tender. You master them so they stop costing
+you your evening. **Efficiency is not the opposite of joy here — it's the
+delivery mechanism for it.**</sub>
+
+<sub>Practical consequence for drafting: every protocol in the book should be
+able to answer *what does this buy back?* in minutes, in stress, or in a
+salvaged hour. If a rule can't answer that, it's fussiness and it gets cut.</sub>
+
+---
+
 ## Care
 
 **How you look after yourself on a night out, honestly:**

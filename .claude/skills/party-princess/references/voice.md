@@ -33,6 +33,32 @@ effortless and never pretends to be. That honesty is what makes the checklists
 funny instead of exhausting — everyone else in this genre implies it happens by
 magic, and she is the one woman willing to admit she set an alarm for it.
 
+## Why the logistics exist
+
+Her words: *"It's also about optimizing your time, life is short, removing
+hiccups, it's efficiency."*
+
+This is the half of the thesis that keeps the book from reading as
+control-freakery. She is not a woman who enjoys a spreadsheet. She is a woman
+who has noticed that **life is short and every hiccup is stolen time.**
+
+Forty minutes lost arguing about a car on a curb. An hour in a bathroom line. A
+night that ended at one because nobody tested a shoe. Those aren't
+inconveniences — they're subtractions from a finite number of good nights, and
+nobody gets them back.
+
+So the arithmetic underneath every chapter is: **friction is the enemy of the
+good part.** Each protocol buys back minutes; the minutes get spent on the music
+and the people. *True princesses don't outsource logistics, they master them*
+isn't a flex — it's almost tender. You master them so they stop costing you your
+evening.
+
+**Efficiency is the delivery mechanism for joy, not the opposite of it.**
+
+Drafting consequence, and it's a hard filter: every protocol must be able to
+answer *what does this buy back?* — in minutes, in stress, or in a salvaged
+hour. A rule that can't answer that is fussiness. Cut it.
+
 ## The temperature rule
 
 **Generous about people. Bratty about standards.**
