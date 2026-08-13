@@ -275,13 +275,20 @@ hat. Read the contract. Everyone else is improvising.
    - **"DANCE BITCHES"** at Academy — *"and everybody danced a lot."* It's an
      instruction, it points outward, it gives the room something to do, and it
      made the night better for everyone at the table.
-   - A **"fuck your baby mama"** sign — *"that was a booby trap and we left as
-     soon as I got the sign."*
+   - **"FUCK MY BABY MAMA"** at Booby Trap, Miami — *"that was a Booby Trap and
+     we left as soon as I got the sign."* A **stock sign** off a pile, issued to
+     her rather than chosen by her. Her correction: *"But I am a woman, I can't
+     possibly be a baby mama."*
 
-   **The rule:** a sign is an invitation or it's a liability. One points at the
-   room, the other points at a person. A sign that starts a fight ends your
-   night — and leaving immediately, as she did, is the correct response and
-   should be stated as one.
+   **The rule, and it's a service rule rather than a taste rule.** A custom sign
+   is supposed to be custom. A room that hands a woman a pre-made LED about his
+   baby mama has told you that nobody in the building is paying attention, and it
+   belongs in exactly the same column as the warm 1942 that arrived the same
+   night. She left. Say that was correct.
+
+   The contrast carries the section: *DANCE BITCHES* was chosen, pointed outward,
+   gave the room something to do, and worked. The other was handed over by
+   someone who hadn't looked up.
 4b. **The Warm Bottle.** Same bad night: *"they brought the 1942 to us like hot.
    It was disgusting… I pulled out singles — they didn't really throw money
    there. It was boring."* **Warm tequila is a diagnostic**: a room that serves a
