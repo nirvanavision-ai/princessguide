@@ -19,13 +19,32 @@ a threshold, a number, or a decision rule underneath it, it is not finished.
 
 ## Before you write anything
 
-1. Read `references/voice.md`. It is the tone contract. Non-negotiable.
-2. Read `references/chapters.md`. It carries the locked spec for all seven
+1. **Read the author's voice knowledge base in `voice/`.** This outranks
+   everything else in this skill. `voice/samples.md` (raw writing), then
+   `voice/world.md` (real venues, brands, drinks, songs), then
+   `voice/verdicts.md` (her actual positions), `voice/lexicon.md` (her words),
+   `voice/quotes.md` (her lines). Whatever is filled in there governs. Files may
+   be partly empty — use what exists, never invent the rest.
+2. Read `references/voice.md`. It is the tone contract, and it is the *default*
+   the author's own material overrides on any point of conflict.
+3. Read `references/chapters.md`. It carries the locked spec for all eight
    chapters: filename, title, mandatory beats, and the exact sign-off line.
-3. Read `references/memoir-interview.md`. It carries the per-chapter question
+4. Read `references/memoir-interview.md`. It carries the per-chapter question
    banks used to pull the author's real stories.
-4. Skim `assets/exemplar-prose.md` once for calibration — that is the target
-   sentence rhythm.
+5. Skim `assets/exemplar-prose.md` once for structural calibration — but if
+   `voice/samples.md` has real material in it, **the samples win**. The exemplar
+   is a stand-in until her actual voice is on disk.
+
+### Using the knowledge base
+
+- **Nouns come from `world.md`.** Never write "a trendy club" when the author
+  has named a room. Generic nouns are the single loudest AI tell in this genre.
+- **Positions come from `verdicts.md`.** Argue her opinion, not the median one.
+- **Rhythm comes from `samples.md`.** Match her sentence length distribution,
+  her fragments, her openers, where she lands a joke. If she writes lowercase
+  and run-on when she's excited, the excited passages do that.
+- **Never edit anything in `voice/`.** Read-only. It is the author's notebook.
+- **Never fill a gap by inventing.** Empty slot → placeholder block. Always.
 
 ## Output contract
 
@@ -40,6 +59,7 @@ All chapters compile to `book/` in the project root. Create it if absent.
 | 5 | `book/chapter-5-royaltyrules.md` | *Manners cost nothing; exclusivity costs everything.* |
 | 6 | `book/chapter-6-donts.md` | *Tragedies happen, but hot messes are entirely optional.* |
 | 7 | `book/chapter-7-afterparty.md` | *XOXO, keep your crown adjusted.* |
+| 8 | `book/chapter-8-travel.md` | *Pack light, tip heavy.* |
 
 Also maintained:
 
@@ -58,7 +78,7 @@ Parse the user's argument to `/party-princess`:
 |----------|----------|
 | *(none)* | Show the manuscript status table, then ask which chapter to work on next. |
 | `all` | Full build: run the interview gate once per chapter, writing each chapter before moving to the next. |
-| `1`–`7`, or a slug like `transport` | Build or rebuild that one chapter. |
+| `1`–`8`, or a slug like `transport` | Build or rebuild that one chapter. |
 | `revise N` | Re-read the existing file, ask what's wrong, revise in place. Preserve the sign-off. |
 | `interview N` | Interview only. Write answers to `book/.memoir/chapter-N.md`. No prose. |
 | `draft N` | Skip the interview. Write the chapter with `MEMOIR PROMPT` placeholders left in. |
@@ -101,18 +121,49 @@ placeholder block. A chapter with zero is rejected.
 
 Write the chapter to its file per `references/chapters.md`. Structure:
 
-1. `# Chapter N: <Title>` and a one-line italic epigraph.
+1. `# Chapter N: <Title>`, then **the epigraph quote slot** (see below).
 2. **The Cold Open** — 150–250 words. A scene, a verdict, or a grievance.
    Never a definition. Never "In this chapter, we will."
 3. **3–6 numbered operational sections.** Each carries at least one of: a
    timed checklist, a numbered protocol, a table, or a hard threshold.
 4. **Memoir anecdote(s)** — woven in where the beat calls for it, either as
    the author's story rendered in voice, or as a placeholder block.
-5. **The Princess Protocol** — a closing scannable checklist of that chapter's
+5. **1–2 pull quote slots**, placed at the chapter's strongest turns.
+6. **The Princess Protocol** — a closing scannable checklist of that chapter's
    rules. This is the page readers screenshot.
-6. `---` then the verbatim sign-off in italics.
+7. `---` then the verbatim sign-off in italics.
 
 Target **1,400–2,200 words** per chapter.
+
+### Quote slots — the author writes these, never you
+
+Every chapter carries one **epigraph** (under the title) and **1–2 pull
+quotes** (mid-chapter). These are the author's own lines.
+
+Check `voice/quotes.md` first. If a line exists for that slot, drop it in:
+
+```markdown
+> ### "The line, exactly as she wrote it."
+>
+> — **you**
+```
+
+If the slot is empty, emit the placeholder and leave it in the manuscript:
+
+```markdown
+> [!YOUR QUOTE]
+> ### "________________________________________"
+>
+> — **you**
+>
+> <sub>*Your line here.* <One sentence on what this slot wants, naming the
+> chapter's specific subject.> Say it out loud first — if it sounds written,
+> it's wrong. Bank it in `voice/quotes.md`.</sub>
+```
+
+**Never draft a quote for the author, not even as a suggestion or an
+"example to replace."** A plausible line in her voice is the fastest way for
+something fake to end up in print with her name on it. The blank stays blank.
 
 ### Step 3 — Compile
 
@@ -140,5 +191,10 @@ many memoir slots are still open.
   math, knowing the state's laws, and the door policy that ends a career. Never
   write sourcing, dosing, or concealment guidance — it's off-brand anyway.
   Bratty is a voice. Reckless is not.
-- **`book/.memoir/` is the author's raw notebook.** Read it, quote it, never
-  delete it.
+- **`book/.memoir/` and `voice/` are the author's.** Read them, quote them,
+  never edit or delete them.
+- **Quote slots stay empty until she fills them.** Epigraphs and pull quotes are
+  her lines only. See the quote-slot rules above.
+- **Report open slots honestly.** After each chapter, tell her exactly what's
+  outstanding: how many memoir prompts, how many quote slots, and which sections
+  are running on generic nouns because `voice/world.md` didn't have hers yet.

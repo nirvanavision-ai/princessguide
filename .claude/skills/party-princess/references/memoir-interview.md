@@ -120,6 +120,18 @@ Mark it in the file so it's findable:
    room full of people?"
 3. **The morning.** "What's your genuine, non-aspirational morning-after ritual?"
 
+### Chapter 8 — Quick Travel Tips
+
+1. **The trip that went wrong.** "What happened on a night out far from home
+   that you'd never have had happen in your own city?"
+   Triggers: *A bag that didn't arrive* / *A card that stopped working abroad* /
+   *A dress code nobody warned me about* / *A hotel too far from everything* /
+   *Skip.*
+2. **The one-night city.** "Where would you fly for a single night, and what
+   would you do the second you landed?"
+3. **The packing rule.** "What's the one thing you always carry on, and what did
+   it cost you to learn that?"
+
 ## The notebook format
 
 `book/.memoir/chapter-N.md`:

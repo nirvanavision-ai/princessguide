@@ -1,12 +1,21 @@
 # Chapter Specifications (Locked)
 
-Seven chapters. Filenames, titles, and sign-offs do not change. The section
-skeletons below are the required beats — you may add a section, reorder within
-a chapter for flow, or rename a heading in voice, but every listed beat must
-appear somewhere in the finished chapter.
+Eight chapters. Chapters 1–7 run chronologically through a single night, from
+twenty-four hours out to the morning after. Chapter 8 is the different axis:
+the night that requires a flight.
 
-Word target: 1,400–2,200 each. Every chapter needs at least two memoir
-positions (filled or placeholder) and a closing **Princess Protocol** checklist.
+Filenames, titles, and sign-offs do not change. The section skeletons below are
+the required beats — you may add a section, reorder within a chapter for flow,
+or rename a heading in voice, but every listed beat must appear somewhere in the
+finished chapter.
+
+Word target: 1,400–2,200 each (Chapter 8 runs shorter and denser — see its
+entry). Every chapter needs:
+
+- at least **two memoir positions** (filled or placeholder),
+- **one epigraph quote slot** and **1–2 pull quote slots** — the author's own
+  lines only, never drafted for her,
+- a closing **Princess Protocol** checklist.
 
 ---
 
@@ -333,3 +342,68 @@ left. Nobody has ever successfully improvised one at 3 a.m.
    the next glow-up starts now, which is the only reason any of this works.
 
 **Memoir positions:** the greatest after-party she ever ran; a morning-after ritual.
+
+---
+
+## Chapter 8 — `book/chapter-8-travel.md`
+
+**Title:** Quick Travel Tips — Going Out Somewhere That Isn't Home
+**Sign-off:** `*Pack light, tip heavy.*`
+
+**Thesis beat:** Away from home you have no host, no driver, no bartender who
+knows you, and no closet. Every advantage you've built is a local advantage.
+Travel is where you find out whether you had a system or just a neighborhood.
+
+**Format note:** This one runs **shorter and denser than the rest — 900–1,400
+words.** It's the chapter people read on a plane with a drink in hand. Lead with
+tight numbered tips, keep the prose between them short, and let the format
+itself feel like packing: nothing in it that doesn't earn the space. Still needs
+its epigraph, one pull quote, and one memoir position minimum.
+
+**Required beats:**
+
+1. **Carry-on doctrine.** The going-out kit never gets checked. The dress, the
+   shoes, the makeup, and one full backup outfit fly in the cabin with you —
+   because a lost bag is a lost night, and the replacement shopping trip is not
+   the fun montage it sounds like. What can safely go in the hold: everything
+   you'd survive without.
+2. **The dress bag math.** Steaming beats ironing and every hotel has a steamer
+   at the front desk even when the room doesn't. Roll knits, hang structure.
+   The shoe goes in the bag heel-to-toe in a dust bag, not loose, and never at
+   the bottom under the weight.
+3. **Book it from home.** The single highest-yield tip in the chapter: host,
+   table, car, and dinner reservation are all secured before you land. A
+   Saturday table booked from the airport taxi is a table you're overpaying for.
+   Cross-reference the recon discipline in Chapter 4 — it's the same work, just
+   done at a distance and further ahead.
+4. **The hotel as home base.** Chapter 2's launchpad, rebuilt in a room you've
+   never seen. Pick for proximity to the venues over luxury — twenty minutes of
+   traffic each way costs more than the nicer suite is worth. Ask for late
+   checkout **at check-in**, not the morning after, when the answer is no.
+   Learn the front desk's names on day one; they are your concierge, your
+   steamer, your lost-ID problem, and your noise complaint, and all four go
+   better if you've been kind before you needed anything.
+5. **Landing day.** Do not go out the night you land. If you must, run the
+   modified protocol: shorter night, earlier arrival, water on the plane, and a
+   hard stop set before you leave the room. The flight is a dehydration event
+   and pretending otherwise is how people lose the second night to the first.
+6. **The travel micro-purse.** What changes from Chapter 2: physical ID *and*
+   a photo of it stored separately; a card that works abroad plus a backup on a
+   different network; local cash in small bills for tips; the hotel's address
+   written down, in the local language if that applies; the room key kept apart
+   from the key card sleeve with the room number on it.
+7. **Local rules.** Dress codes, start times, and tipping norms are not
+   universal, and the confident visitor who ignores them is the least popular
+   person in any room. Ask the concierge or the host what time things actually
+   start — the honest answer is rarely what the website says. Tipping abroad
+   ranges from expected to mildly insulting: find out first. When in doubt,
+   watch the locals for ten minutes before you decide you know better.
+8. **Safety, away from your network.** Stated plainly and without lecture: at
+   home you have people. Here you don't. So the location share is non-optional,
+   the check-in times are real, and you leave with the people you arrived with.
+   Know what your own country's consulate does and doesn't do for you. The
+   single rule: never let the hotel be a secret — someone at home knows where
+   you're sleeping.
+
+**Memoir positions:** the trip where something went wrong far from home; the
+city she'd fly to for one night.

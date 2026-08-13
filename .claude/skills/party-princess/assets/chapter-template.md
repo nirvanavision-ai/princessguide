@@ -1,6 +1,17 @@
 # Chapter {N}: {Title}
 
-*{One-line italic epigraph. A verdict, a grievance, or a rule. Never a summary.}*
+<!-- EPIGRAPH SLOT — the author's line. Pull from voice/quotes.md if present.
+     If empty, emit the placeholder below verbatim and leave it in the file.
+     Never draft a line here on her behalf, not even as an example. -->
+
+> [!YOUR QUOTE]
+> ### "________________________________________"
+>
+> — **you**
+>
+> <sub>*Your line here.* {One sentence on what this slot wants, naming this
+> chapter's specific subject.} Say it out loud first — if it sounds written,
+> it's wrong. Bank it in `voice/quotes.md`.</sub>
 
 ## {Cold Open Heading — a noun phrase, not "Introduction"}
 
@@ -41,6 +52,17 @@ extracted rule. Uses only facts the author supplied.}
 ## 3. {Operational Section}
 
 {...}
+
+<!-- PULL QUOTE SLOT — 1-2 per chapter, placed at the strongest turns. Same
+     rules as the epigraph: her line or a blank. Never yours. -->
+
+> [!YOUR QUOTE]
+> ### "________________________________________"
+>
+> — **you**
+>
+> <sub>*Your line here.* The screenshot line for this section — {what it should
+> be about}. Bank it in `voice/quotes.md`.</sub>
 
 ## The Princess Protocol
 
