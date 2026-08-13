@@ -26,8 +26,12 @@ temperature on every page.
 | | |
 |---|---|
 | **What you call your friends** | |
-| **What you'd call the reader** | |
-| **↳ ex** | *babe · darling · sis · love · nothing, I just start talking* |
+| **What you'd call the reader** | **babe · sis · girl** <sub>(captured 2026-08-13)</sub> |
+
+<sub>Peer energy, texting register — a friend in the group chat, not an elder
+statesman. Note this sits slightly against the existing Ch. 2 sign-off *"Your
+bag is your vault, darling"*; darling stays there as a one-off flourish, but the
+running address through the prose is babe/sis/girl.</sub>
 
 ## Intensifiers
 
@@ -88,12 +92,17 @@ Check what's true. Guessing is fine — samples will confirm.
 
 Where the funny lives for you.
 
-- [ ] Deadpan — say the absurd thing completely straight
+- [x] **Deadpan — say the absurd thing completely straight** <sub>(captured 2026-08-13 — this is the default)</sub>
 - [ ] Self-deprecating — I'm the punchline
 - [ ] Observational — I just describe what's happening and it's already funny
 - [ ] Exaggeration — turn it up to a hundred
 - [ ] The turn — set it up nicely, then undercut it
 - [ ] Specificity — the exact detail is the joke
+
+<sub>Deadpan is the delivery for *both* temperatures: the bratty standards
+("never take your heels off, we are not friends") and the generous ones ("you're
+buying a table and sharing it") get said with exactly the same flat face. That
+sameness is the joke — she is equally serious about both, and she is.</sub>
 
 **A line of yours you think is genuinely funny:**
 

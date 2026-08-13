@@ -1,8 +1,20 @@
 # Exemplar Prose — Calibration Only
 
 Not a chapter. Not for publication. This is the target sentence rhythm, the
-comedy timing, and the ratio of attitude to actual operational content. Match
-this and the book is right.
+deadpan timing, and the ratio of attitude to actual operational content.
+
+**What this does not yet demonstrate**, and what `voice/samples.md` will teach
+better than any invented sample can:
+
+- The **babe/sis/girl** address. These passages are unaddressed; the real prose
+  talks *to* someone.
+- The **host energy** — she's doing this so her friends have a great night, and
+  that warmth should be audible under the rigor.
+- **Music as the reason.** The thing she actually goes out for is missing here
+  entirely.
+
+Treat the rhythm below as right and the temperature as incomplete. The moment
+real samples land, they win.
 
 ---
 

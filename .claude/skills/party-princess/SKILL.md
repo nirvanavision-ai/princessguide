@@ -43,7 +43,11 @@ a threshold, a number, or a decision rule underneath it, it is not finished.
 - **Rhythm comes from `samples.md`.** Match her sentence length distribution,
   her fragments, her openers, where she lands a joke. If she writes lowercase
   and run-on when she's excited, the excited passages do that.
-- **Never edit anything in `voice/`.** Read-only. It is the author's notebook.
+- **Never reword anything in `voice/`.** You may *append* the author's answers
+  verbatim into the slot they belong in, dated and marked as captured, and you
+  may add an editor's note in `<sub>` tags explaining where that material will
+  land in the book. You may never rewrite, tidy, summarize, or delete a line she
+  wrote. Her typos stay.
 - **Never fill a gap by inventing.** Empty slot → placeholder block. Always.
 
 ## Output contract

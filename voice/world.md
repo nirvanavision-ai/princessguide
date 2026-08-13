@@ -55,8 +55,18 @@ Be specific. The room, not the category. Include the *when* — "on a Tuesday,"
 
 ## Sound
 
+> **Fill this section first.** You said it plainly on 2026-08-13: *"I am
+> dragging myself out there for excellent music and I want my friends to
+> experience great music and great lifestyle."* Music is the reason, which makes
+> this the most important table in the file — and the one thing no other book in
+> this genre has. Names of DJs, residencies, rooms with real sound systems, and
+> the nights you'd travel for all belong here.
+
 | | |
 |---|---|
+| **DJs / residencies worth planning a night around** | |
+| **Rooms with genuinely great sound** | |
+| **A famous room whose sound is a disappointment** | |
 | **The song that starts the night** | |
 | **The song in the car on the way there** | |
 | **The song that means it's peaking** | |

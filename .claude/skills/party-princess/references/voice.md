@@ -1,79 +1,146 @@
 # The Voice Contract
 
-The book sounds like one person: a woman who has been to every room worth being
-in, remembers exactly what everything cost, and is telling you the truth as a
-favor. She is funny because she is precise, not because she is trying.
+Defaults only. Anything in `voice/` is the author's own material and **overrides
+this file on every point of conflict.** As `voice/samples.md` fills up, this
+document matters less and her actual sentences matter more.
 
-## The three-part blend
+---
 
-Every page mixes all three. A page with only one is flat.
+## Who is talking
 
-**1. Luxury wit, tongue-in-cheek.**
-Deadpan delivery of absurd standards. The comedy is that she is completely
-serious. She is never winking so hard that the advice stops being real advice.
+A woman who drags herself off the couch for excellent music and brings her
+friends with her.
+
+That sentence is the whole book and it is worth sitting with, because it fixes
+three things at once:
+
+**She is a host, not an attendee.** She is not going out to be photographed. She
+is responsible for whether eleven people have a great night, and that
+responsibility is why she knows the timings, the numbers, and the exit plan. The
+logistics aren't a flex — they're hospitality. *True princesses don't outsource
+logistics, they master them* is, underneath, a sentence about taking care of
+people.
+
+**She is there for the music.** Not the list, not the room's reputation, not the
+photo. This is the selection criterion the rest of the genre skips entirely, and
+it should show: venues chosen by who's playing, a great DJ in a lesser room
+beating a famous room with nothing happening in it, sound quality treated as a
+real evaluation category, the after-party sound system taken as seriously as the
+club's.
+
+**It takes effort and she says so.** *Dragging myself out there.* She is not
+effortless and never pretends to be. That honesty is what makes the checklists
+funny instead of exhausting — everyone else in this genre implies it happens by
+magic, and she is the one woman willing to admit she set an alarm for it.
+
+## The temperature rule
+
+**Generous about people. Bratty about standards.**
+
+That's the formula, and it resolves what looks like a contradiction in the
+brief. The warmth is real and the brattiness is real; they simply point at
+different targets. The sharpness never lands on a person — it lands on a
+behavior, a situation, a shoe, a decision. She has never once been mean to
+someone who has less than her.
+
+Her own two anchor verdicts, captured verbatim, sit on either side of it:
+
+> **"You are not buying a table, not alcohol — you are buying a table and
+> sharing it."**
+
+> **"Never take your heels off. We are not friends."**
+
+Same woman, same flat delivery, ten seconds apart. One is hospitality, one is a
+boundary, and the reader has to hold both at once. That tension *is* the voice.
+A chapter that only does warm is a greeting card. A chapter that only does cold
+is the ice-queen book somebody else already wrote.
+
+## Delivery: deadpan
+
+Her default. Say the absurd thing completely straight and never signal the joke.
+
+The comedy comes from her being equally, genuinely serious about the generous
+rule and the bratty one. Don't undercut, don't wink, and never explain a joke in
+the sentence after the joke.
 
 > The Fiji is chilled, not cold. Cold is a gas station. Chilled is a decision.
 
-**2. Bratty, but demonstrably smart.**
-She has standards and no apology for them — and then she shows her work, which
-is what earns the attitude. Bratty without competence is just unpleasant. The
-reader should roll her eyes and then take notes.
+## Addressing the reader
 
-> No, I will not "just Uber." Not because I'm above it. Because surge pricing at
-> 2:10 a.m. in a 4-inch platform is a math problem I solved in 2019.
+**babe · sis · girl.** Second person throughout, texting register — a friend in
+the group chat, not a mentor behind a desk. Warm by default, sharper when the
+reader is about to do something stupid, and the sharpness reads as care because
+it comes from the same person who's saving her a seat.
 
-**3. Operational rigor.**
-This is the load-bearing wall. Timed checklists. Dollar amounts. Thresholds.
-Decision trees. Contingencies. The reader should be able to run the night off
-this book. The premise — *true princesses don't outsource logistics, they
-master them* — is only true if the logistics are actually on the page.
+She never says *queen*. She never says *you deserve this*. Real warmth, no
+affirmation-speak.
 
-> T-minus 90: hair set. T-minus 60: shoes on, laps of the apartment, two full.
-> If the second lap hurts, the shoe does not come. There is no third lap.
+*(One exception: the Chapter 2 sign-off keeps "darling" as a flourish. Locked
+sign-offs are locked.)*
+
+## Money is generosity, not strategy
+
+The whole tipping and spending thread runs on *stimulate the economy*. She tips
+well because it's a good way to be alive, not because it buys leverage — the
+leverage is a side effect and she'd do it anyway. The $300 to the host, the
+over-tip to the bartender, the round for the table: joy first, mechanics second.
+
+Never write generosity as a transaction. Write it as taste.
+
+## Having someone be an asshole for you
+
+Doctrine, not tactics. She doesn't make scenes and she doesn't need to, because
+she has a handler, a host, and a security team, and using them is not a failure
+of nerve — it's what they're for. Runs through Ch. 3 and Ch. 5.
+
+The distinction the book keeps making: being *nice* means agreeing to things.
+Being *kind* means treating people well while agreeing to nothing.
+
+## Operational rigor
+
+The load-bearing wall. Timed checklists, dollar amounts, thresholds, decision
+trees, contingencies. The reader should be able to run her night off this book.
+
+Every section carries at least one of: a timed checklist, a numbered protocol, a
+table, or a hard threshold. If a passage is vibes with no mechanism underneath,
+it isn't finished.
 
 ## Sentence mechanics
 
 - **Vary length hard.** Long, textured, comma-rich sentence. Then a short one.
-  Then a fragment. The rhythm is the joke delivery.
-- **Concrete nouns beat adjectives.** Not "expensive bag" — the bag, by name,
-  by dimension, by what fits inside it.
-- **Numbers are funny.** $300 is funnier than "a generous tip." 11:40 p.m. is
-  funnier than "late." Specificity reads as authority *and* as comedy.
-- **Second person, direct address.** "You" is the reader. She's being coached.
-- **The reader is treated as competent.** Never explain what a nightclub is.
-  This book assumes you've been out; it's teaching you to be *good* at it.
-- **Every list item earns its line.** No filler bullets to reach five.
+  Then a fragment. The rhythm is the delivery.
+- **Concrete nouns beat adjectives.** Pull real ones from `voice/world.md`.
+  Never "a trendy club" when she has named a room.
+- **Numbers are funny.** $300 beats "a generous tip." 11:40 p.m. beats "late."
+- **The reader is competent.** Never explain what a nightclub is.
+- **Every list item earns its line.** No filler to reach five.
 
-## Recurring devices (use, don't overuse)
+## Recurring devices
 
-- **The Verdict** — a one-line ruling that closes an argument. *"That's a no."*
-- **The Cost Line** — the real price of the thing, stated flatly.
+- **The Verdict** — a one-line ruling that closes an argument.
+- **The Cost Line** — the real price, stated flat.
 - **The Contingency** — "If X, then Y. If Y fails, Z. There is no fourth option."
 - **The Aside** — a parenthetical grievance, usually about someone's boyfriend.
-- **Named Enemies** — the Front Seat, the Third Lap, the Bathroom Line at 1 a.m.,
-  the Man Who Wants to "Just Say Hi to the DJ." Capitalize them. They recur.
+- **Named Enemies** — The Front Seat, The Third Lap, The Bathroom Line at 1 a.m.,
+  The Man Who Wants To Say Hi To The DJ.
 
 ## Banned outright
 
 - "In today's fast-paced world," "It's important to note," "Let's dive in."
-- "Elevate your," "level up," "unlock," "game-changer," "must-have."
-- Em-dash-heavy AI cadence: *"It's not just X — it's Y."* Kill on sight.
-- Rule-of-three list padding where the third item is a synonym of the second.
+- "Elevate," "level up," "unlock," "game-changer," "must-have," "testament," "delve."
+- The AI cadence *"It's not just X — it's Y."* Kill on sight.
+- Rule-of-three padding where the third item restates the second.
 - Hedging: "you might want to consider possibly." She does not hedge.
-- Ending a section with a summary of the section. She ends with a verdict.
-- Sincere motivational uplift. There is no "you deserve this, queen." Ever.
-- Explaining the joke in the sentence after the joke.
+- Ending a section by summarizing the section. End on a verdict.
+- Affirmation-speak. *Queen. You deserve this. Bad bitch energy.* Never.
+- Explaining the joke.
+- Pretending any of this is effortless.
 
-## Boundaries of the brattiness
+## The safety register
 
-She is imperious about *standards* and generous about *people*. She is never
-cruel to staff, never punches down, never mocks anyone for having less money.
-Chapter 5 makes this explicit doctrine — rudeness to a bartender is the tell of
-someone who has never actually been anywhere.
+Blasé in tone, rigorous in substance. Anything that could end in a hospital, a
+holding cell, or a one-year venue ban gets the cold operator treatment — what it
+costs, what it ends, who it inconveniences. Framed as competence, never as a
+lecture, and never with sourcing or concealment detail.
 
-Same principle on risk: she is blasé in tone and rigorous in substance. Anything
-that could realistically end in a hospital, a holding cell, or a permanent
-venue ban gets the cold-eyed operator treatment — what it costs, what it ends,
-who it inconveniences. She frames it as competence, never as a lecture, and
-never with sourcing or concealment detail. A princess who gets arrested has
-outsourced her logistics to the State of Nevada.
+She's the host. Her people get home. That's not a moral position, it's the job.
