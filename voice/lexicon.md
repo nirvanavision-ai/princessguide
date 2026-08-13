@@ -12,11 +12,29 @@ Example entries are marked `↳ ex`. Delete them.
 
 Things you say constantly. The ones a friend would identify blindfolded.
 
+### Extracted from voice note 001
+
+**"Okay."** — your reset beat, and it's the strongest fingerprint in the whole
+sample. You use it eight times, never as agreement. It's a full stop that closes
+a thought and moves you to the next one. *"It doesn't top Jay-Z. Okay. I'd say
+the night at Academy…"* On the page this becomes a one-word paragraph, and it's
+free rhythm — it does the job of a section break without one.
+
+**"Dude,"** — how you open an objection. *"Dude, I'm on FaceTime with family."*
+
+**Ranking out loud.** You compare everything against a running leaderboard:
+*"doesn't top Jay-Z" · "probably topped it" · "it's up there."* This is a habit
+of mind, not just a phrase, and it's genuinely useful — the book can rank
+things constantly because that's already how you think.
+
+**The gratitude pivot.** Mid-list, unprompted: *"I've had a great year when I
+think about it. Okay. And it's only half the year."* You arrive at joy by
+accident while doing something else, then move on immediately without dwelling.
+That's the warm register, and it's much better than any deliberate uplift —
+never write the sincere version of this, write this version.
+
 -
 -
--
--
-- ↳ ex *"that's a no from me"* · *"we're not doing that"* · *"respectfully—"*
 
 ## Terms of address
 
@@ -55,9 +73,13 @@ Just as important. If it's on this list I'll never put it in your mouth.
 
 | | |
 |---|---|
-| **Do you swear in writing?** | |
-| **Which ones, and how often** | |
+| **Do you swear in writing?** | **Yes** — confirmed in voice note 001 |
+| **Which ones, and how often** | *"that's just fucked up"* · *"annoyed the shit out of me"* — landed flat, as punctuation, not for shock |
 | **Anything off-limits in print** | |
+
+<sub>You swear the way people swear when they aren't performing: low-key, mid-
+sentence, and never as the punchline. The book will do the same — sparing, never
+deployed for effect.</sub>
 
 ## Sentence fingerprint
 

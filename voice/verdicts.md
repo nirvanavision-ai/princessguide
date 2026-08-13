@@ -30,8 +30,23 @@ wrong about. Say them flat, no hedging, no "in my opinion."
    <sub>**Editor's note:** you typed "hills," read as "heels." Say the word if
    that's wrong.</sub>
 
-3.
-4.
+3. **The biggest show is not the best night.**
+   <sub>Extracted from voice note 001, 2026-08-13 — you didn't state this as a
+   rule, you demonstrated it: *"I loved Kanye for the show, obviously, if I could
+   pick one to see again, it'd be Kanye. But I had a great time at juvenile. It
+   was really fun."* You split **best show** from **best time** and ranked them
+   separately without noticing you'd done it. Nobody in this genre makes that
+   distinction — the marquee night is the one you'd rewatch, a smaller one is the
+   one you actually enjoyed. Say the word and it becomes a load-bearing argument
+   in Ch. 1: where you go, and why.</sub>
+
+4. **A negative music verdict, print-ready exactly as spoken:**
+   *"I don't like this Fred again version. I feel like it's the same thing we've
+   been listening to."*
+   <sub>Flat, unhedged, no apology, no explanation offered. This is the deadpan
+   register working perfectly — the tone the book should take whenever it
+   dislikes something.</sub>
+
 5.
 
 ## Overrated

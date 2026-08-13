@@ -81,8 +81,39 @@ If typing is the blocker, record instead. Talk for two minutes about the best
 night you've had this year, transcribe it, paste it below. Spoken voice is
 unguarded and it's the fastest route to the real thing.
 
-```
+### Voice note 001 — best night of the year / annoyed
 
+<sub>Captured 2026-08-13. Raw auto-transcript, unedited, transcription errors
+intact. She is working through the prompts in this file out loud, so it covers
+both "best night" and "annoyed" in one pass. **Do not clean this up.** It is the
+single most valuable artifact in the repo.</sub>
+
+```
+I was just like, okay, dog. Bass. Pick a best night. This year isn't over. I
+feel like, though, like, the Jay Z was such a peak moment. Like we went so high
+there at that concert, we felt so hard. Like, from vibes, the vibes were off,
+like, after, like, where, we got so high, you gotta come down. They are. Yeah.
+That's just fucked up. All they do is listen. No, no, no, no. R&B. Okay, the
+million birthday was a little fun. That was last year. Academy the 2nd time,
+still, was really fun. Yeah, Jay, uh, Kenya, Kenya? Earth night, Adrian annoyed
+the shit out of me because he poked me in the eye and moving vehicle while
+wearing full glam to help. And continue to be a nuisance all night. And then the
+2nd night, Second concert, it was great because of the girls, and it was a great
+show. But I was also new. I was breaking up with my boyfriend soon. It doesn't
+top Jay-Z. Okay. I'd say the night at Academy on, I think it's January 15th for
+not my birthday. Probably topped it because of just being in a good mood with
+Adrienne. Okay. Okay. Okay. It's up there. I have more fun at juvenile than I. I
+mean, I loved Kanye for the show, obviously, if I could pick one to see again,
+it'd be Kanye. But I had a great time at juvenile. It's really, it was really
+fun. I've had a great year when I think about it. Okay. And it's only half the
+year. So what? Scarlett's? Hello? Scarlet's is a great night. That was fun. What
+about annoyed, done with someone's nonsense? The night of the Kanye concert,
+Adrian? I don't know. What are the books? Like, every day, Moira? Yeah. But it's
+acceptable to the house. I was flattered at first, so she texted and said,
+You're being too loud. Dude, I'm on FaceTime with family. Wow, I just went
+outside, and I didn't hear a thing. The voices in your head go, oh... I don't
+like this Fred again version. I feel like it's the same thing we've been
+listening to.
 ```
 
 ---
