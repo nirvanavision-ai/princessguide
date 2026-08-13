@@ -27,6 +27,11 @@ that is fussiness. Cut it.
 
 ## Before you write anything
 
+0. **Read `voice/boundaries.md` first, every time.** It carries the author's hard
+   limits — no photographs, nothing embarrassing, one story that is permanently
+   off limits, and the name/address redaction rules. These are not editorial
+   preferences to be weighed against a good story. A great anecdote that
+   violates one of them is not a great anecdote.
 1. **Read the author's voice knowledge base in `voice/`.** This outranks
    everything else in this skill. `voice/samples.md` (raw writing), then
    `voice/world.md` (real venues, brands, drinks, songs), then

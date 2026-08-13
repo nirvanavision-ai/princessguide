@@ -128,6 +128,7 @@ sound system doesn't date.</sub>
 | **Brands everyone loves that you don't** | **Tory Burch** (*"my friend and I used to make fun of Tory Burch"*) · **Free People** · **Fashion Nova** · **Theory** |
 | **Why Theory specifically** | *"Do any of our friends actually go to an office, like 9 to 5? … no."* <sub>The brand isn't bad, it's irrelevant to your life. Funnier and truer than calling it ugly.</sub> |
 | **Off-duty** | **cargo jeans and Jordans** · *"crop tops. My favorite."* |
+| **The sunglasses** | **Yellow-tinted.** *"Highly recommend yellow tinted sunglasses. Make it stylish."* <sub>Author instruction 2026-08-13 — a named recommendation for the fashion section, to be written with flair rather than as a bullet.</sub> |
 | **Brand-heaviness generally** | *"I like some things, it's not like brand heavy though."* |
 
 > **The shoe answer is the single most useful thing in this file.** Chapter 1's
@@ -148,13 +149,18 @@ sound system doesn't date.</sub>
 | ~~The friend who always needs handling~~ **The ex** | **Adrian** | **Her boyfriend at the time.** Poked her eye before Kanye, didn't apologise, made the night about himself. Dumped after. See `book/.memoir/chapter-4.md`. |
 | The friend you'd want in an emergency | | |
 | The person who is an asshole on your behalf | | |
-| The one who makes a night | **Adrienne (?)** | *"probably topped it because of just being in a good mood with Adrienne"* |
+
 | Neighbour | **Moira** | HOA Director. Confirmed 2026-08-13. Filed a formal dated noise complaint with recordings — see Ch. 7 notes. Name changes in print. |
 | Friends named in passing | **Gerard**, **Maya** | Gerard works 9–5 now; Maya *"doesn't wear Theory, she's just pretty casual"* |
 | **"the girls"** | | Your default collective noun |
 
-<sub>**Adrian resolved** — the ex. Still open: **Adrienne**, the *"good mood with
-Adrienne"* at Academy. Different person, or him on a better night?</sub>
+<sub>**Adrian and Adrienne are the same person** (confirmed 2026-08-13) — the ex.
+Which makes him a far better character than two people would have been: the
+*"good mood with Adrienne"* at Academy that *"probably topped"* the year, and the
+eye-poke before Kanye that ended the relationship, are **the same man on two
+different nights.** Ch. 4's Romance Variable should use both. A partner who can
+make the best night of your year and then make himself the event at the next one
+isn't a villain, he's a variable — which is exactly what the chapter is called.</sub>
 
 ## Travel
 

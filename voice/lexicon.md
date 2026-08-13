@@ -126,6 +126,18 @@ Where the funny lives for you.
 buying a table and sharing it") get said with exactly the same flat face. That
 sameness is the joke — she is equally serious about both, and she is.</sub>
 
+> **"I don't feel like I ever try to be funny on purpose. When I do, I can't."**
+
+<sub>Voice note 003, 2026-08-13. **This is the most important instruction in the
+file and it's a prohibition.** The prose must never sound like it's reaching for
+a joke. Your funny is a by-product of accuracy — you describe the thing exactly
+and it turns out to be ridiculous. Every laugh in this book has to arrive that
+way. The moment a sentence is *constructed* to be funny it stops sounding like
+you, and it lands as trying, which is a form of being extra.</sub>
+
+<sub>Your actual comic register, from the same note: *"that sounds like a you
+problem."* Flat, brief, closes the subject.</sub>
+
 **A line of yours you think is genuinely funny:**
 
 ---

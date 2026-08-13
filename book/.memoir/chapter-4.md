@@ -60,6 +60,65 @@ probably change in print, and the material should stay to what he did on that
 night rather than a general character assessment. She may also simply not want a
 break-up in the book at all. Her call entirely — flagging, not advising.</sub>
 
+---
+
+## The best night — and why it wasn't hers
+
+**Session:** 2026-08-13 · voice note 003. Asked for a hyped night *for book
+purposes*:
+
+> *"The Valentino Con (?) night, when we went out and it wasn't my birthday. Low
+> pressure dressing. I wore like cargo jeans and a crop top, but **people weren't
+> fawning all over me** on my birthday. The music was great. Everything flowed.
+> Our bottle signs said **dance bitches**, and everybody danced a lot."*
+
+**Read what she just said.** Her best night was the one where she wasn't the
+occasion. Low-pressure dressing, cargo jeans and a crop top, nobody fawning, and
+the whole thing measured by *"everybody danced a lot."*
+
+That is the third time the same instinct has surfaced — *I don't need the
+attention* (Ch. 5), *he tried to take the attention off Kanye onto himself*
+(above), and now *the best night was the one that wasn't about me.* It's not
+modesty. It's a working theory of what makes a night good: **a night organised
+around a person is worse than a night organised around the music.** Chapter 4
+should say that outright.
+
+<sub>"Valentino Con" is garbled — ask.</sub>
+
+## Bottle signs — the beat now has real material
+
+The spec asks for funny custom signs with rules. She supplied both a model and a
+counter-example, and the contrast writes the section by itself.
+
+**The good one:** **"DANCE BITCHES"** — at Academy. *"And everybody danced a
+lot."* It's an instruction, it's for the room, and it worked. The sign made the
+night more fun for everyone at the table.
+
+**The bad one:** a *"fuck your baby mama"* sign. Her verdict: *"That was a booby
+trap and we left as soon as I got the sign."*
+
+**The rule the contrast produces:** a bottle sign is an invitation or it's a
+liability. *Dance bitches* points outward and gives the room something to do.
+The other points at somebody, and a sign that starts a fight is a sign that ends
+your night — she left immediately, which is the correct response and worth
+stating as one.
+
+### The warm 1942 — the venue tell
+
+Same bad night:
+
+> *"They brought the 1942 to us like hot. It was disgusting. It was warm, and I
+> really just got the bottle sign. I pulled out singles — they didn't really
+> throw money there. It was boring."*
+
+**Warm tequila is a diagnostic.** A room that serves a $500 bottle hot is telling
+you exactly how much attention the rest of your night will get. Pairs with the
+Ch. 3 driver brief — *the back refrigerated cooler, not an ice bucket cooler.
+Ew.* She is consistent about this across two completely separate recordings,
+which is how you know it's real doctrine and not a passing complaint.
+
+**Named Enemy:** The Warm Bottle.
+
 ## Open follow-ups
 
 - What did he say when you told him? Is "emotional execution" what he called the

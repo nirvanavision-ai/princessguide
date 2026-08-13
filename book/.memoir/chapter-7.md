@@ -62,6 +62,22 @@ book that admits it is a book worth trusting.
 **The gift in it:** *"like living next door to a nightclub!"* Moira wrote the
 best line in the chapter and she meant it as an accusation. Print it as a review.
 
+### She's already there — confirmed 2026-08-13
+
+Reading the letter back in voice note 003, unprompted:
+
+> *"I love 'clubbing tunes escalated through the night.' 'Late night parties.' I
+> love 'bass perceptible through the house.' I love 'loud music with continued
+> heavy bass.' Those are so funny. I love 'living next door to a nightclub.'"*
+
+So the editorial question is settled — she wants the complaint used as comedy,
+and she's already picked the pull quotes. **Treat Moira's phrases as found
+poetry**: set them as a list, in her formal register, with no commentary
+underneath. The letter is funnier straight than anything that could be said
+about it, and adding a punchline would be being extra.
+
+<sub>Name still changes in print. See `voice/boundaries.md`.</sub>
+
 **The rule the chapter extracts:** quiet hours are a hard operational constraint
 like a set time or a bag policy — not a suggestion you can be right about. Being
 right doesn't get your building back. The after-party's real ceiling isn't the

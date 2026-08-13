@@ -40,6 +40,14 @@ ready at 9 p.m.; you started at 9 a.m. yesterday. That gap is the whole book.
    actually ends nights — not the night itself. Note plainly that a drip is a
    medical service, it goes through a licensed provider, and anyone who won't
    ask about your medications isn't one.
+3b. **The yellow-tinted sunglasses.** Author-requested by name, 2026-08-13:
+   *"Highly recommend yellow tinted sunglasses. **Make it stylish.**"* Written
+   with flair, not as a bullet — she asked for style on this one specifically.
+   The argument writes itself: dark lenses are useless the moment the sun's gone,
+   so a yellow tint is the only sunglass that still *works* at night — it lifts a
+   dim room, warms everything, and reads as a decision rather than a hangover.
+   Then it does a second shift the next morning (Ch. 7's sunglasses-as-device).
+   One accessory, both ends of the night.
 3. **The Fitting, not the outfit.** Revolve/Reformation/rental logic. Order three
    sizes, keep one, return within the window — the return window is a logistics
    deadline like any other. Sit down in it. Raise both arms. Photograph it under
@@ -164,6 +172,26 @@ performance with a load-in, and the car is the stage door.
 
 **Required beats:**
 
+0. **The Driver Brief — open the chapter with it.** She produced this from memory,
+   unprompted, in one breath, and it demonstrates every beat the rest of the
+   chapter argues. Print it close to verbatim; full text in
+   `book/.memoir/chapter-3.md`.
+
+   **The Buffer Doctrine is the chapter's best idea.** She runs three staggered
+   clocks and tells different people different times on purpose: real arrival
+   11:00, announced arrival 10:30, driver on site 45 minutes before departure,
+   departure announced 30–60 minutes before the actual one. Her reason, flat and
+   unbothered: ***"because we're always late."*** She doesn't fight the lateness
+   or moralise about it — she **builds it into the schedule as a known
+   constant.** That's the efficiency thesis at its purest: don't try to change
+   people, absorb them into the plan. Funnier than a lecture about punctuality,
+   and it actually works.
+
+   Also inside it: the host's number handed to the driver (the Communication Trio,
+   done in one sentence instead of argued); **Gatorades and beef jerky** as the
+   real cooler contents; the refrigerated-cooler correction and its *"Ew"*; and
+   the close — *"we appreciate you so much, thank you"* — which is the same
+   one-line warmth that ends her bottle order, and never performed.
 1. **The Vehicle.** Black SUV, booked ahead, on standby for the whole night —
    not summoned per leg. Why standby beats rideshare: no surge, no cancellation
    at 2 a.m., no stranger's aux, and a driver who knows which entrance. The cost
@@ -241,7 +269,27 @@ hat. Read the contract. Everyone else is improvising.
    friend they came for.
 4. **The Bottle Sign.** The custom LED sign as comedy asset. Rules: short, legible
    at distance, funny about *you*, never about a stranger in the room, never a
-   phone number. A sign that punches down is the tell of a bad table.
+   phone number.
+   **Write the beat off her two real signs** (`book/.memoir/chapter-4.md`), because
+   the contrast makes the argument better than any rule list:
+   - **"DANCE BITCHES"** at Academy — *"and everybody danced a lot."* It's an
+     instruction, it points outward, it gives the room something to do, and it
+     made the night better for everyone at the table.
+   - A **"fuck your baby mama"** sign — *"that was a booby trap and we left as
+     soon as I got the sign."*
+
+   **The rule:** a sign is an invitation or it's a liability. One points at the
+   room, the other points at a person. A sign that starts a fight ends your
+   night — and leaving immediately, as she did, is the correct response and
+   should be stated as one.
+4b. **The Warm Bottle.** Same bad night: *"they brought the 1942 to us like hot.
+   It was disgusting… I pulled out singles — they didn't really throw money
+   there. It was boring."* **Warm tequila is a diagnostic**: a room that serves a
+   $500 bottle hot has told you exactly how much attention the rest of your night
+   will get. She is consistent on this across two separate recordings — see the
+   Ch. 3 driver brief, *"the back refrigerated cooler, not an ice bucket cooler.
+   Ew."* That's doctrine, not a passing complaint. Named Enemy: **The Warm
+   Bottle.**
 5. **The Table Economy.** Who pours. The tab split settled *before* the first
    bottle arrives, in writing, in the group thread — the single highest-yield
    thing in the chapter. Guests at your table are guests; guests who invite six
@@ -292,10 +340,19 @@ power. Real status is quiet, warm, and completely immovable.
 **Required beats:**
 
 1. **The Staff Doctrine.** Bartenders, servers, security, valets, bathroom
-   attendants, the busser nobody looks at. Names learned and used. Tipping as
-   infrastructure, not generosity. The direct claim: being rude to staff is the
-   single loudest signal that you have never actually been anywhere. Staff talk
-   to each other, across venues, and the industry is smaller than the city.
+   attendants, the busser nobody looks at. Names learned and used. The direct
+   claim: being rude to staff is the single loudest signal that you have never
+   actually been anywhere. Staff talk to each other, across venues, and the
+   industry is smaller than the city.
+   **Do not write this as "tipping is infrastructure"** — that's colder than she
+   is. Her actual version, from `book/.memoir/chapter-5.md`: *"I love taking my
+   friends there, and just making sure the girls that are working have a great
+   night, and they make money **easily and happily**."* She takes responsibility
+   for the staff's night, which inverts the customer relationship entirely — host
+   doctrine extended to people who aren't her guests. *Easily and happily* is the
+   load-bearing phrase: not just that they earn, but that earning it isn't a
+   grind. Write it from there. <sub>Venue is a strip club — confirm with her
+   before naming it in print.</sub>
 2. **Warmth as strategy.** Charm is not submission. The precise distinction
    between being *nice* (agreeing to things) and being *kind* (treating people
    well while agreeing to nothing). Warmth costs you nothing and buys you the
@@ -332,6 +389,42 @@ power. Real status is quiet, warm, and completely immovable.
    why the tip is never announced. Announcing it would be the extra thing.
    **The verdict:** say thank you once, mean it, and let the night go back to
    being about the night.
+8. **How to politely ask someone to leave.** *(Author-requested, 2026-08-13:
+   "one of those things should be, like, how to politely ask someone to leave.
+   That's a good tip that I've just learned this year." Second signature
+   argument of the chapter. Full material in `book/.memoir/chapter-5.md`.)*
+
+   Her doctrine, print close to verbatim: *"I have a problem. I have to take care
+   of it. It's distracting. **Let's extract the problem and get back to the
+   party. Quick and efficient. No vibe kill.**"* Lead with it, because everything
+   else follows from it — **the goal is not justice, it's the return to the
+   party.** Private not public, brief not thorough, face-saving not accurate, all
+   because you're optimising for time back at the good part rather than for being
+   understood. The efficiency thesis, applied to a person.
+
+   **Two protocols, and don't blur them.** She distinguishes *annoyed* from
+   *"the pure frightened."* This section is **annoyed** only. Name that the other
+   category exists and that its answer is security, the handler and other people
+   — then stop. See `voice/boundaries.md`; her frightened story is off limits.
+
+   - **Someone you're close to:** ask for a private minute. Her script is
+     deliberately soft and a little untrue — *"it's not you, it's me, we're just
+     not really vibing."* You are not building a case, you're providing an exit.
+   - **Someone another guest brought:** **whoever brought them removes them.**
+     Not you, not security. Cleaner, faster, and it puts the awkwardness with the
+     person who created it. This is the un-dramatic version of *have someone be
+     an asshole for you* — correct ownership, not outsourced cruelty.
+   - **The face-saving script**, and it's a masterclass: *"probably just too
+     high, nervous, but we'd like to lie down for the night anyways, so probably
+     be a good idea to go."* Nobody is accused of anything. He's handed a
+     generous explanation for his own behaviour and a reason to leave that isn't
+     about him. **An accurate accusation starts a conversation. A conversation is
+     a vibe kill.**
+   - **The threshold, and this is the line to give the reader:** *"we were
+     basically hiding in the room all night."* If you are hiding in a room in
+     your own home, the decision was already made and you're paying interest on
+     it. The trigger isn't someone being rude — it's the moment the room
+     reorganises itself around avoiding them.
 
 **Memoir positions:** a staff member she'll never forget; a boundary she held.
 

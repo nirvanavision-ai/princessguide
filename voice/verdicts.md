@@ -47,7 +47,26 @@ wrong about. Say them flat, no hedging, no "in my opinion."
    register working perfectly — the tone the book should take whenever it
    dislikes something.</sub>
 
-5.
+5. **A night organised around a person is worse than a night organised around
+   the music.**
+   <sub>Extracted from voice note 003, 2026-08-13. Asked for your most hyped
+   night *for book purposes*, you chose the one that **wasn't** yours: *"when we
+   went out and it wasn't my birthday. Low pressure dressing. I wore like cargo
+   jeans and a crop top, but people weren't fawning all over me. The music was
+   great. Everything flowed. Our bottle signs said dance bitches, and everybody
+   danced a lot."* Third time this instinct has surfaced — *I don't need the
+   attention*, *he tried to take the attention off Kanye onto himself*, and now
+   *my best night was the one that wasn't about me.* It isn't modesty, it's a
+   working theory of what makes a night good.</sub>
+
+6. **The scene isn't what it was, and that's why the book exists.**
+   > *"I think we gotta go out a lot more. It's just harder now, because the
+   > party scene [isn't] what it used to be… **because you need to bring it
+   > back.**"*
+   <sub>Voice note 003. This is the closest thing to a mission statement anyone
+   has said out loud so far, and it may belong in the front matter. The book
+   isn't nostalgia and it isn't a flex — it's an attempt to restart something.
+   Worth deciding whether to say that openly on page one.</sub>
 
 ## Overrated
 

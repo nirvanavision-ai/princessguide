@@ -251,6 +251,113 @@ Was I would, I guess? Okay. I see general loves that you find overrated. Vegas,
 LA, mainly Vegas. For nightlife, LA.
 ```
 
+### Voice note 003 — in conversation with a friend
+
+<sub>Captured 2026-08-13. Two speakers; the friend is asking the questions and
+prompting. Raw auto-transcript, unedited. Contains the single best operational
+artifact in the repo (the driver instruction script), the origin of the
+"how to politely ask someone to leave" chapter material, the Scarlett's ethic,
+the bottle-sign material, and the boundary now recorded in
+[`boundaries.md`](boundaries.md).</sub>
+
+```
+No, but one of those things should be, like, how to politely ask someone to
+leave. Okay. That's a good tip that I've just learned this year. Yeah? So, would
+it be under annoyed done with someone's nonsense? Yeah. Okay. And how do you do
+it? I asked to speak to them privately. Well, you had, um, what's her name, take
+care of it? No, I had every item tell everyone to leave. The earth is tired.
+Well, that one time, yeah, but what about the guy, the... Well, Adrian, like,
+would does? He was like, hey, can I talk to you for a minute? I was like, hey, I
+just don't, you know, he came later or something bullshit excuse. It's not you,
+it's me. We're just not really vibing. We haven't seen each other. To 1st group
+hang. But what about, uh, Christa's friend? Remember, you, you asked Christa to
+seem to live? Oh, yeah. So it's, like, have somebody be an asshole for you kind
+of thing? Well, she brought him, that's why. That really depends on if you have a
+boyfriend or not. See, well, that's the boyfriend... Oh, a lot of times, yeah,
+but now I'm, like... I don't know. I'm never like, this is my 1st time winging it
+on my own, you know? And what happened again? In a nutshell. That guy, uh, we
+were basically hiding in the room all night and I told Maya, like, as I get so
+the vibe is off, he's killing it. I don't like the sound of his voice. I don't
+like him forcing conversation. I don't like him ton. I realized like when she,
+when did, I was like, when did the vibe actually really go off from him? I was
+like, nah. And it was when he she got a little sleepy and he was like, you get 5
+minutes to sleep. He kept saying that. And then he kept going out about baby oil
+or something. And I hadn't realized that was, like, his cute elite, but when I
+went downstairs, like, I just could not think while he was talking. I never want
+to date a guy with an Australian accent, ever. That is out for sure. Okay. Um,
+but since she brought him, I asked her to get a Billy because he was making a
+meat uncomfortable, me and another girl uncomfortable. Probably just too high,
+nervous, but we'd like to lie down for the night anyways. So probably be a good
+idea to go. What about the 3rd situation that Matt, do you want to think about
+that? I couldn't ask him to leave. I had to wait for him to fucking, where's it?
+Like, be able to leave? I don't want to talk about that situation. No, absolutely
+not. Okay, just ask. Okay, no. Well, that's why I knew that you annoyed. I need
+a... That was the pure frightened. Annoyed is like Adrian. Okay, I have a
+problem. I have to take care of it. It's distracted. Let's extract the problem
+and get back to the party. quick and efficient. Okay. No vibe kill. What about if
+they give instructions around in logistics? Like, like, like what I would say to
+Josh? Yeah. So, she'll definitely. Josh, we need to be there by 11, but I'm going
+to tell people we need to be there at 1030 or a half hour before we need to get
+there. Please get there 45 minutes before we need to lose. Get there earlier than
+we need to leave. We gonna tell people it's time to leave when we still have a
+half hour to an hour left because we're always late. Please make sure you have
+1942 in the cooler in the back refrigerated cooler not, an ice bucket cooler. Ew.
+Uh, please pick us up at this time. Here is the host's phone number, so you can
+be, he can text me when we're ready to go. If you could please get us Gatorades
+and beef jerky, that would be great. We appreciate you so much. Thank you. Okay.
+Let the bug, like, if you, like, warm with taken care of someone. Like, if
+someone's, like... Like, the other night. Hey, don't worry, it's all good. Like,
+everything's gonna be okay. Um, You know, just let's, uh, let's chill out for the
+night. Let's just, you know, put this to bed. Let's sober up and, you know, we
+can talk about this somewhere. We all had some sleep. And, you know, maybe
+there's nothing you need to talk about. Don't worry, though. Everything's gonna
+be okay. It's always good. Here's my friend Angie with a big smile and a bouncy
+body. easy energy. Okay, okay.
+
+Um, what about excited or hyped? How excited or hyped are we talking? And then
+the guy post, I don't know. Uh uh. This is a rough year, because I'm comparing it
+to a rough hype year, except very into like Jay-Z night out, which is peak. It's
+sort of peak on into my life. But that's, it's a sea, it says range meth is more
+than length. Let's tell, like, I would say, for book purposes, the Valentino Con
+night, when we went out and it wasn't my birthday, low pressure dressing. I wore
+like cargo jeans and a crop top, but People weren't fawning all over me on my
+birthday. The music was great. Everything flowed. Our bottle signs said dance
+bitches, and everybody danced a lot. Oh, one son said, fuck my bed and fuck him
+by the moment. What? Fuck your baby mama son? No, no. It's just a dance bitch is
+at Academy. Okay. But what was it, fuck you, baby mama, didn't you? That was a
+booby trap and we left as soon as, like, I got the sign. Okay, so they brought
+the 1942 to us like hot. It was disgusting. It was warm and I really just got the
+bottle sign. I didn't even, I pulled out singles in it. They didn't really throw
+money there. It was boring. Okay, okay. What's the also expensive time? Maya's
+1st night at Scarlet's was so much fun. I think she learned to appreciate
+beautiful women that can dance that are friendly and are fun at a strip club. I
+love taking my friends there, and just making sure the girls that are working
+have a great night, and they make money easily and happily. Uh, I loved hearing
+Maya say Rose. I feel like a dude. I'm so confused. What about those? You were
+right. Oh, and I heard Rose, you were right a lot. That was very satisfying,
+very, very, very satisfying. Uh, especially Angie's, you were right, because they
+are harder. Um... What was it, height? Is that what we're asking about? Except
+the type. Yeah. Um, I don't know, what do I sound like? Do I get because I'm so
+like unimpressed like about things. It tastes like... Jay-Z just basically ruined
+me. Before that, it was Anderson Pock pulling out Dr. Dre for 2 songs. Surprised
+at Hollywood Bowl, that was pretty P Gully moment. Okay. That was impressive, you
+know? Okay. Uh... I had a great time at Arl Grind. I had a great time. I can't.
+Okay, okay. It's like fill a place. I think we gotta go out a lot more. It's just
+harder now, because, like, the... party, like, seen as an what it used to be as
+far as puppy. Only didn't talk how it used to be. Because you need to bring it
+back. Maybe the trend said, yeah. Oh? Um, okay, how about being funny on purpose?
+Uh... I don't know on that one. I don't feel like I ever try to be funny on
+purpose. When I do, I can't. Okay, so, for example, do you have, like, any, like,
+texts or GMs, especially ones that made someone laugh? Or like something? Yeah,
+that sounds like a you problem, or that sounds like a dad problem. That sounds
+like a E problem.
+```
+
+<sub>Remainder of the recording is the two of them scrolling for old group chats
+and screenshots. Not transcribed — it is logistics about finding material rather
+than material, and it contains the "no pictures" instruction now recorded in
+`boundaries.md`.</sub>
+
 ---
 
 ## Anti-samples — writing that is NOT you
