@@ -3,7 +3,7 @@
 > [!YOUR QUOTE]
 > ### "________________________________________"
 >
-> — **you**
+> - **you**
 >
 > <sub>*Your line here.* Your line about arriving, about the car, or about who is
 > actually running the night. Say it out loud first. If it sounds written, it's
@@ -191,7 +191,7 @@ are trying to not be needed.**
 > [!YOUR QUOTE]
 > ### "________________________________________"
 >
-> — **you**
+> - **you**
 >
 > <sub>*Your line here.* The screenshot line for this chapter: about being the
 > one who plans it, or about what it costs to be the person everyone relies on.
