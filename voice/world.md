@@ -38,6 +38,15 @@ I'll lock them in.
 > protocols stay evergreen, the room names don't. **Rooms with great sound are
 > the exception** — those you did name, and they're in the Sound section.</sub>
 
+### Rooms you did name anyway
+
+| Room | Confirmed | Note |
+|---|---|---|
+| **Scarlett's, Miami** | 2026-08-13 | *"Scarlett's is a great night. That was fun."* |
+| **Academy, Los Angeles** | | Two great nights — *"Academy the 2nd time, still, was really fun"* and *"the night at Academy on, I think it's January 15th, for not my birthday. Probably topped it."* Also one of your two great-sound rooms. |
+| **M2, Miami** | | Great sound. |
+| **"the million birthday"** | | *"was a little fun. That was last year."* Still don't know what this is. |
+
 **The door you're proudest of getting through:**
 
 > *"I buy a table. I don't have to be like…"*
@@ -136,16 +145,16 @@ sound system doesn't date.</sub>
 | Your handler / the sober one | | |
 | Your VIP host | | |
 | Your driver | | |
-| The friend who always needs handling | **Adrian (?)** | *"poked me in the eye in a moving vehicle while wearing full glam. And continued to be a nuisance all night."* |
+| ~~The friend who always needs handling~~ **The ex** | **Adrian** | **Her boyfriend at the time.** Poked her eye before Kanye, didn't apologise, made the night about himself. Dumped after. See `book/.memoir/chapter-4.md`. |
 | The friend you'd want in an emergency | | |
 | The person who is an asshole on your behalf | | |
 | The one who makes a night | **Adrienne (?)** | *"probably topped it because of just being in a good mood with Adrienne"* |
-| Neighbour | **Moira (?)** | Texted *"You're being too loud"* — see Ch. 7 notes |
+| Neighbour | **Moira** | HOA Director. Confirmed 2026-08-13. Filed a formal dated noise complaint with recordings — see Ch. 7 notes. Name changes in print. |
 | Friends named in passing | **Gerard**, **Maya** | Gerard works 9–5 now; Maya *"doesn't wear Theory, she's just pretty casual"* |
 | **"the girls"** | | Your default collective noun |
 
-<sub>**Adrian vs. Adrienne** — still spelled both ways across two notes. One
-person or two?</sub>
+<sub>**Adrian resolved** — the ex. Still open: **Adrienne**, the *"good mood with
+Adrienne"* at Academy. Different person, or him on a better night?</sub>
 
 ## Travel
 

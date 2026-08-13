@@ -16,9 +16,14 @@ best nights of the year. Volunteered material is usually the best material.</sub
 > nuisance all night."
 
 <sub>Verbatim, transcription errors intact. Reads as: *he poked me in the eye in
-a moving vehicle while wearing full glam* — the "to help" suggests he was
-attempting to fix or adjust something. Context places it on the night of the
-Kanye (?) concert.</sub>
+a moving vehicle while wearing full glam*.</sub>
+
+**Resolved 2026-08-13:** "Earth night" was the night of the **Kanye** concert.
+**Adrian was her boyfriend.** He poked her in the eye, did not apologise, tried
+to take the attention off Kanye and onto himself, and she ended the relationship
+afterwards. Full account and the line it produced are in
+[`chapter-4.md`](chapter-4.md) — the story belongs to the Romance Variable, and
+Chapter 3 keeps only the cabin half of it.
 
 ---
 
@@ -39,9 +44,11 @@ emergencies too — a poked eye in full glam at the start of a night is a
 ninety-second repair that most people would let ruin an hour.
 
 **Open follow-ups:**
-- What is "Earth night"?
-- Confirm Adrian vs. Adrienne — one person or two?
-- What was he trying to help with?
+- ~~What is "Earth night"?~~ Resolved: the Kanye concert.
+- ~~Confirm Adrian vs. Adrienne~~ Resolved: Adrian, the boyfriend.
+- Still open: **Adrienne** — the *"good mood with Adrienne"* at Academy. Same
+  spelling collision, different person? Or was that also him, on a better night?
+- What was he trying to help with when he poked you?
 
 ---
 **Used in:** *(not yet drafted)*

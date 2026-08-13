@@ -37,9 +37,15 @@ that is fussiness. Cut it.
    the author's own material overrides on any point of conflict.
 3. Read `references/chapters.md`. It carries the locked spec for all eight
    chapters: filename, title, mandatory beats, and the exact sign-off line.
-4. Read `references/memoir-interview.md`. It carries the per-chapter question
-   banks used to pull the author's real stories.
-5. Skim `assets/exemplar-prose.md` once for structural calibration — but if
+4. Read `references/night-types.md`. Concert, festival, club night, other — the
+   protocols are functions of the night type, and each chapter carries two or
+   three "by night type" divergence blocks where the rule genuinely changes.
+   Only where it genuinely changes; a matrix repeated for its own sake is being
+   extra.
+5. Read `references/memoir-interview.md`. It carries the per-chapter question
+   banks used to pull the author's real stories, and the **one-question-at-a-time,
+   no-multiple-choice** interview protocol, which is not optional.
+6. Skim `assets/exemplar-prose.md` once for structural calibration — but if
    `voice/samples.md` has real material in it, **the samples win**. The exemplar
    is a stand-in until her actual voice is on disk.
 

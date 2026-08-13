@@ -257,6 +257,26 @@ hat. Read the contract. Everyone else is improvising.
    The verdict: you are the general manager of the table, and GMs don't have
    scenes, they have staffing decisions.
 
+   **The chapter's centerpiece is her own account** — see
+   `book/.memoir/chapter-4.md`. Her boyfriend poked her in the eye in a moving
+   vehicle before the Kanye concert while she was in full glam, didn't
+   apologise, **tried to take the attention off Kanye and onto himself**, and she
+   ended it afterwards.
+
+   Note the order she put it in — the escalation lands on the third item. The eye
+   was an accident. Not apologising was rude. Making himself the event was the
+   disqualifying one. **She dumped a man for being extra**, which is the exact
+   inverse of her own rule in Ch. 5 (*"I don't need the attention, I don't want
+   to talk about me, just fucking vibe"*). Write the beat from that, not from
+   the eye.
+
+   Her line, untouched: **"He called it 'emotional execution'. I called it a
+   Sunday night."** Place it as either the chapter epigraph or the closing
+   verdict of this section — author's choice, flagged in `voice/quotes.md`.
+
+   <sub>In print: change his first name and keep the material to what he did that
+   night rather than a general character assessment.</sub>
+
 **Memoir positions:** the best/worst table night; a romance-variable incident.
 
 ---
@@ -383,8 +403,32 @@ left. Nobody has ever successfully improvised one at 3 a.m.
    sixty-second test. Every time.
 2. **The Guest List.** After-party capacity is a real number with a real ceiling.
    Who gets invited (a name you know), who invites (only you), and the closed
-   door. Neighbors and the noise curfew as a hard constraint — the after-party
-   that ends in a complaint ends the *venue*, and the venue is your home.
+   door.
+3. **Quiet hours are a hard constraint, not an opinion.** This is no longer a
+   hypothetical — she has a formal, dated HOA noise complaint filed against her
+   with a log running April to June and audio recordings attached. Full account
+   in `book/.memoir/chapter-7.md`. The operative numbers from the letter:
+   **quiet hours 10 p.m.–8 a.m., noise restricted to 5 dB.**
+
+   **Write it honestly.** Her first telling was defensive — *I was on FaceTime, I
+   went outside and couldn't hear a thing.* The neighbour's telling is a dated
+   log with recordings. Both are true and the gap between them is the joke: she
+   was having the year of her life and someone downstairs was keeping a
+   spreadsheet about it. The defensive version is a lesser story and readers can
+   smell it. The honest version is funny and makes the chapter's stakes real.
+
+   The neighbour's own line — *"like living next door to a nightclub!"* — was
+   written as an accusation and should be printed as a review.
+
+   **The rule:** quiet hours are an operational constraint like a set time or a
+   bag policy, not something you get to be right about. Being right doesn't get
+   your building back. Every protocol in this chapter — the pre-flight, the
+   pre-set volumes, the deceleration playlist, the pre-booked cars — is
+   downstream of that 10 p.m. number. The after-party that ends in a complaint
+   ends the *venue*, and the venue is your home.
+
+   <sub>In print: change the neighbour's name, drop all street addresses, keep
+   the HOA structure, the dates and the quotes.</sub>
 3. **The Environment.** Lighting down and warm. Water visible before alcohol.
    Food that is real: the pizza order placed *before* the car leaves the club,
    because the 3 a.m. delivery window is a lottery you enter early. Seating

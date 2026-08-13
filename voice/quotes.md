@@ -99,6 +99,42 @@ disaster and a story you'll tell for years.</sub>
 Loose bank. Write them whenever they arrive; I'll place them where they land
 best and tell you which chapter each one went to.
 
+### Banked — yours, captured verbatim
+
+> ### **"He called it 'emotional execution'. I called it a Sunday night."**
+
+<sub>2026-08-13. The best line you've given me. His phrase is enormous,
+self-serious and entirely about his own interior weather; yours is four words and
+a shrug. The comedy is the size difference — you don't argue with the melodrama,
+you decline to match its scale. **Candidate for the Ch. 4 epigraph**, though it
+may be too good to spend there and could close the Romance Variable section
+instead. Your call.</sub>
+
+> ### **"If you don't fuck with Kanye, I don't fuck with you."**
+
+<sub>2026-08-13. Ch. 1 or Ch. 5. Flattest, brattiest line in the file.</sub>
+
+> ### **"I'm in Miami, bitch."**
+
+<sub>2026-08-13. Ch. 1, the Miami section.</sub>
+
+> ### **"Never take your heels off. We are not friends."**
+
+<sub>2026-08-13. Ch. 6, the Don'ts.</sub>
+
+> ### **"You're welcome, glad you came out. No, we don't need to talk about it anymore."**
+
+<sub>2026-08-13. Ch. 5 — the closing half of the two-line gratitude script.</sub>
+
+### Borrowed, accidentally — from the HOA complaint
+
+> ### *"Like living next door to a nightclub!"*
+
+<sub>Written by the neighbour, as an accusation, in a formal complaint. Ch. 7
+should print it as a review. Change her name before it goes anywhere.</sub>
+
+### Still blank — yours to write
+
 > "
 
 > "
