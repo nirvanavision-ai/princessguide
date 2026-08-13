@@ -76,7 +76,26 @@ genuinely needed.
 
 **What "don't be an asshole" means to you, concretely:**
 
-<!-- Not the principle. The behavior. What did someone do that you'd never do? -->
+> **"Just respect and kindness, common courtesy. But not being extra."**
+
+> *"I really don't like when people over-thank me… when they keep going on about
+> it, and they keep going on. I don't need the attention. I don't want — just
+> fucking vibe, dude. I don't want to talk about me. Like, be nice, like 'thank
+> you, I had a great time, that was really cool of you.' 'You're welcome, glad
+> you came out.' No, we don't need to talk about it anymore."*
+
+> *"Also helping friends when they need help."*
+
+<sub>Captured verbatim, voice note 002, 2026-08-13.</sub>
+
+<sub>**"But not being extra" is the whole ethic in four words**, and it cuts in
+both directions. It's why you're not rude — and it's *also* why you don't want
+to be thanked twice. Warmth without performance. The moment kindness becomes a
+scene, it stopped being kindness and became content.</sub>
+
+<sub>Nobody else in this genre teaches people how to *stop* thanking someone.
+It's now the signature argument of Ch. 5, with your two-line script printed as
+you said it.</sub>
 
 **Who is your someone, and when did you last need them?**
 

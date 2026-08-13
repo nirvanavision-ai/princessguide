@@ -81,6 +81,26 @@ boundary, and the reader has to hold both at once. That tension *is* the voice.
 A chapter that only does warm is a greeting card. A chapter that only does cold
 is the ice-queen book somebody else already wrote.
 
+## Not being extra
+
+Her four-word ethic — *"just respect and kindness, common courtesy, but not
+being extra"* — is a manners rule that turns out to govern the prose too.
+
+She hates being over-thanked. *"When they keep going on about it, and they keep
+going on… I don't need the attention. I don't want to talk about me."* Warmth
+without performance: the moment kindness becomes a scene, it stopped being
+kindness.
+
+**On the page that means: make the point, then stop.** Don't restate it warmer.
+Don't add the reassuring sentence after the sentence that already worked. Don't
+explain why the rule is kind — if it's kind, the reader will notice.
+
+This is the same instinct as her **"Okay."** — say it, close it, move. The two
+together are the single most reliable anti-slop rule available here, because
+almost every AI tell is a form of being extra: the summary paragraph, the
+softening clause, the third example nobody asked for, the reassurance at the
+end.
+
 ## Delivery: deadpan
 
 Her default. Say the absurd thing completely straight and never signal the joke.

@@ -44,12 +44,35 @@ ready at 9 p.m.; you started at 9 a.m. yesterday. That gap is the whole book.
    sizes, keep one, return within the window — the return window is a logistics
    deadline like any other. Sit down in it. Raise both arms. Photograph it under
    flash, because club lighting is 90% flash and fabric lies in daylight.
-4. **Footwear doctrine.** Chunky platforms and rave boots over stilettos, argued
-   on physics: surface area, ankle angle, and the fact that a platform survives
-   a sticky floor, a curb, and a 3 a.m. sprint. The Two-Lap Test. Backup flats
-   live in the car, not the bag. Never break in a new shoe on a live night.
+4. **Footwear doctrine.** Chunky platforms over stilettos, argued on physics:
+   surface area, ankle angle, and the fact that a platform survives a sticky
+   floor, a curb, and a 3 a.m. sprint. The Two-Lap Test. Backup flats live in the
+   car, not the bag. Never break in a new shoe on a live night.
+   **Her answers, which are the spine of this section:**
+   - **Jimmy Choo.** *"Perfect platform-to-heel ratio with a thicker heel than a
+     stiletto. Your feet will not hurt, and your friends will not complain to you
+     that their feet hurt."* Use that second clause — the host's reason. She
+     chooses her own shoes partly so she isn't managing everyone else's feet at
+     1 a.m.
+   - **YSL Tribute sandal** — *"the most comfortable all-around shoe."*
+   - **Nude, not strapped:** *"if you want your legs to look longer, go with nude
+     heels. Don't chop your legs with straps."*
+   - And the rule from `voice/verdicts.md` that governs the whole section:
+     **"Never take your heels off. We are not friends."** The shoe has to be
+     survivable precisely because it does not come off.
 5. **Universal City Behavioral Codes.** The chapter's centerpiece — a comparative
-   table plus a short read on each:
+   table plus a short read on each.
+   **Write these from her actual position, not neutrally.** Her verdict:
+   *"Vegas, LA, mainly Vegas"* are overrated, and *"for nightlife, LA."* Miami is
+   the one she claims — *"I'm in Miami, bitch."* So LA and Vegas get written by
+   someone unimpressed, which is both funnier and more useful than reverence, and
+   Miami gets written by someone at home. Do not flatten this into three equal
+   protocols.
+   **Also: don't name clubs.** Her call, and it's right: *"clubs change a lot,
+   there's too much turnover."* A book that names rooms dates the moment one
+   changes hands. Name the *behavior*, not the venue. The one exception is sound
+   — **M2 in Miami** and **Academy in Los Angeles** are the two rooms she'd vouch
+   for, and a sound system doesn't turn over the way a door policy does.
    - **Los Angeles.** Door culture is a social credit check. Arrive *early*
      (11:15, not 12:30). Small groups. The door reads the group, not the girl.
      Your host's name is the password and you say it once, calmly.
@@ -110,6 +133,12 @@ stays chaotic all night. You cannot fix at 1 a.m. what you failed to stage at 8.
    Location sharing on with one named person, with an end time set. The
    check-in that is a real protocol: text on arrival, text on departure.
 5. **The Micro-Purse Arsenal.** The chapter's showpiece. A tiered load-out table:
+   - **Her actual load-out**, and the sizing rule that governs it: the bag is
+     *"mainly the size of phone and sunglasses, plus extra."* Contents as given:
+     phone, sunglasses, small card wallet, lipstick, gum, *"a few other things."*
+     The two she'd never leave without: **Fenty lip gloss** and **Listerine
+     strips**. Note that both are 4 a.m. items, not 10 p.m. items — she packs for
+     the end of the night, which is the whole discipline in miniature.
    - **Non-negotiable:** ID (in the bag, never in the phone case, never in the
      shoe), one card, cash for tips in small bills, phone, keys, lip.
    - **The Save-The-Night tier:** blotting papers, mints, a compact battery bank
@@ -188,15 +217,28 @@ hat. Read the contract. Everyone else is improvising.
    adjacency vs. the DJ booth vs. the table that looks great and is next to the
    service corridor. Reviews read for the operational tells: how many complaints
    mention the check.
-2. **The Host Relationship.** The $300 upfront handshake for front-of-line, what
-   it actually buys (time, position, the host's attention for the rest of the
-   night), and — critically — that it buys a *relationship*, not a transaction.
-   One host, cultivated over months, outperforms cold-tipping five. Text the host
-   on a Tuesday, not only on a Saturday at 11:50 p.m. Names, remembered. Tip
-   discreetly and in cash. Never announce the number.
+2. **The Host Relationship.** Her rule, verbatim: **10% of the total night** —
+   *"if I give them like 300 bucks, 3K minimum."* Write the percentage, not the
+   flat figure; it scales to any venue and any spend, which a fixed $300 does
+   not. What it buys, in her words: *"the host for taking us to our table. It's
+   skipping the line and getting us in quickly."* And it buys a *relationship*,
+   not a transaction — one host cultivated over months outperforms cold-tipping
+   five. Text the host on a Tuesday, not only on a Saturday at 11:50 p.m. Names,
+   remembered. Tip discreetly and in cash. **Never announce the number** — that
+   would be the extra thing, and see Ch. 5 on why extra is the actual rudeness.
 3. **Arrival choreography.** The window, the headcount honesty (padding a
    headcount is how you lose a host), the ratio math the door is actually running,
    and the calm single statement of your host's name.
+   **Her position on doors, which reframes this whole beat:** *"I buy a table. I
+   don't have to be like…"* She doesn't work doors — the table is the mechanism
+   for not queuing, not the reward for having queued. Write it from there.
+3b. **The Photographer.** A named role in the group, and **she invented it**:
+   *"the one that always takes good pictures of the group, remembers to get
+   photos for everyone."* Not the girl with the best camera — the one who
+   *remembers*, and who makes sure everyone gets one, including the people who
+   never ask. Assign it out loud like every other role. Pure host doctrine:
+   somebody has to be responsible for the fact that nobody has a photo with the
+   friend they came for.
 4. **The Bottle Sign.** The custom LED sign as comedy asset. Rules: short, legible
    at distance, funny about *you*, never about a stranger in the room, never a
    phone number. A sign that punches down is the tell of a bad table.
@@ -251,6 +293,25 @@ power. Real status is quiet, warm, and completely immovable.
    not get invited again, and the fact that you never announce it.
 6. **The Grace Clause.** How to be wrong: the immediate, unhedged apology; the
    over-tip that isn't an apology substitute; never litigating it in the room.
+7. **How to stop thanking someone.** *(New, and it should be the chapter's
+   signature argument — no other book in this genre has it.)* Her rule, verbatim:
+
+   > *"Just respect and kindness, common courtesy. But not being extra."*
+   >
+   > *"I really don't like when people over-thank me… when they keep going on
+   > about it, and they keep going on. I don't need the attention. I don't want —
+   > just fucking vibe, dude. I don't want to talk about me. Like, be nice, like
+   > 'thank you, I had a great time, that was really cool of you.' 'You're
+   > welcome, glad you came out.' No, we don't need to talk about it anymore."*
+
+   The argument: gratitude is **one exchange**, warmly given and warmly closed.
+   Continuing past that converts someone's generosity into a conversation about
+   them, and *that* is the actual rudeness — it makes the host perform modesty
+   and turns a gift into a debt being publicly serviced. Print the two-line
+   script as written; it's already perfect. Then connect it to Ch. 4: this is
+   why the tip is never announced. Announcing it would be the extra thing.
+   **The verdict:** say thank you once, mean it, and let the night go back to
+   being about the night.
 
 **Memoir positions:** a staff member she'll never forget; a boundary she held.
 
@@ -353,6 +414,24 @@ left. Nobody has ever successfully improvised one at 3 a.m.
 **Thesis beat:** Away from home you have no host, no driver, no bartender who
 knows you, and no closet. Every advantage you've built is a local advantage.
 Travel is where you find out whether you had a system or just a neighborhood.
+
+**Open on her answer, because it reframes the chapter.** Asked which city she'd
+fly to for a single night: *"I don't think it would ever be a city. It'd be like
+a person or a special occasion."* So this is not a destinations chapter. **You
+don't travel for places, you travel for people** — and everything that follows
+is in service of arriving somewhere unfamiliar in good enough shape to be
+present for the person you flew for. Warmer premise, far less generic, and the
+packing doctrine still fits underneath it intact.
+
+**Her travel positions, to argue from:**
+- *"Expensive hotels are worth it."* — she'd argue about this, so let her.
+- *"Service is a must-have."*
+- **The Edition** — *"great room service, excellent quality, and consistency."*
+  Consistency is the operative word: away from home, a known quantity beats a
+  better unknown one. But *"not really loyal to one, though."*
+- **Chicken tenders and fries from room service** is the 3 a.m. food. Room
+  service is the travel version of Ch. 2's staged return — the kitchen that's
+  open when you get back is a logistics decision made at booking.
 
 **Format note:** This one runs **shorter and denser than the rest — 900–1,400
 words.** It's the chapter people read on a plane with a drink in hand. Lead with

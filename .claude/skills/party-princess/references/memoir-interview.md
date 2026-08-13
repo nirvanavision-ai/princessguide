@@ -5,25 +5,58 @@ buys the book for the night the heel snapped in the Wynn valet line.
 
 ## How to run it
 
-Use **AskUserQuestion**. Two to three questions per chapter, maximum.
+### One question at a time. Open. No options.
 
-The multiple-choice options are **memory triggers**, not answers. You are not
-asking the author to pick their life off a menu — you're jogging it loose. The
-free-text response is the material. Options should be specific and slightly
-funny, because a bland option ("A challenging experience") triggers nothing.
+This overrides the original design. The author's own instruction, 2026-08-13:
 
-Rules:
+> *"Ask me one at a time, because I feel like you're giving advice… I can choose
+> the one you like… Just ask me and give me a chance to respond."*
 
-- Always include a `Skip — leave a placeholder` option. Momentum beats completeness.
-- If the author picks an option and adds nothing, ask **one** follow-up for the
-  detail that makes it real: the venue, the shoe, the price, the person's role,
-  the exact thing said. One. Then write.
+> *"It didn't have to answer all of them."* · *"Ah, too much."*
+
+Two separate failures were happening and both are fixable:
+
+**Batching overwhelms.** A block of six prompts gets skimmed and half-answered.
+She named this directly.
+
+**Multiple-choice options contaminate the answer.** This is the subtler and more
+damaging one. When you offer four options, you've shown her what you're looking
+for — *"I can choose the one you like."* She then answers toward your options
+instead of from her own memory, and the whole point of this interview is to get
+material you could not have produced. **Your options are, definitionally, things
+you already thought of.** They cannot be her voice.
+
+So:
+
+- **Ask one open question. Stop. Wait.** Then ask the next.
+- **Do not offer options.** No `AskUserQuestion` menus for memoir or voice
+  material. Plain questions in plain text.
+- **Silence is an answer.** If she skips it, leave the placeholder and move on
+  without re-asking.
+- **Follow up on the specific, not the general.** If an answer is thin, ask for
+  one concrete detail — the venue, the shoe, the price, the exact thing said.
+  One follow-up. Then write.
+
+<sub>The question banks below are kept as **your** memory aids for what to ask
+next. Do not read the trigger lists aloud to her — they exist so you know the
+territory, not so she can pick from them.</sub>
+
+### Recording
+
 - Save answers **verbatim** to `book/.memoir/chapter-N.md` under a `## Q:` /
   `## A:` structure, with the date. Never paraphrase into the notebook.
+- Keep transcription errors and garbled words intact, marked `(?)` where you've
+  guessed. Ask her to correct them; never silently fix a name.
 - If the author gives you three sentences, that's a full anecdote — expand it
   into 150–250 words of scene using *only* the facts given, plus generic
   atmosphere. Do not invent a second character, a location, a quote, or an
-  outcome they didn't supply.
+  outcome she didn't supply.
+
+### Voice notes are the best channel
+
+Both of the richest sessions so far were her talking, not typing. Spoken answers
+are unguarded, they ramble into material nobody would type, and the rambling is
+where the book is. When she offers to record, always take it.
 
 ## Rendering an anecdote
 
