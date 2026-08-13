@@ -76,7 +76,34 @@ sharply from the rest of the book and needs the most explicit rewriting.
 | The real risk | Attrition. Day three is won on day one. |
 
 **Her material:** Coachella 2023 for Calvin Harris — *"he rarely does
-festivals."* The one thing she'd travel for.
+festivals."* The one thing she'd travel for. Also **Lightning in a Bottle**, done
+by RV, from a text thread dated May.
+
+**Two festival rules straight out of that thread**, both from her friend Rose and
+both better than anything invented:
+
+> *"At least when he gets on your nerves you have a whole festival to escape
+> to 😂"*
+
+**A festival is the only night type big enough to lose someone in**, and that is
+a genuine feature rather than a joke. At a club there is one room and one table
+and the person who is grating on you is in it. At a festival you can agree to
+split, take a different stage, and reconvene at a set time with nothing damaged
+and nobody asked to leave. Contrast this with Ch. 5's extraction protocol: **at
+a festival you don't extract the problem, you route around it.** Different tool
+for a different venue.
+
+> *"If you have service feel free to text me."*
+
+Said as a genuine conditional, not a pleasantry, which is the whole comms
+problem in one line. Signal is assumed absent. Every festival plan has to survive
+nobody's phone working: physical meeting points, agreed times, and a stated
+fallback before anyone walks through a gate.
+
+**The RV.** Worth writing as its own short beat. It solves the festival's real
+enemies at once — somewhere to sit down, somewhere to change, somewhere cold to
+put things, and a fixed physical rendezvous that exists whether or not anyone has
+signal. It's the festival's version of Ch. 2's home base.
 
 ### 3. Club night
 

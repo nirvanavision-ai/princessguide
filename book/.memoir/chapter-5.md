@@ -85,6 +85,21 @@ have started a conversation. That's a vibe kill.
 >
 > *"We were basically hiding in the room all night."*
 
+And one more tell, from a later note — he got hold of a Buddha statue she's owned
+for a decade:
+
+> *"He just molested the shit out of him… It was gross the way he did it."*
+>
+> *"I've had that for at least a decade… and no one's ever been like [that]."*
+
+<sub>Small, and it belongs in the list precisely because it's small. None of the
+tells are dramatic. A voice you can't think through, forced conversation, a
+sleepy woman told *"you get 5 minutes,"* and a decade-old object handled
+disrespectfully in someone else's home. **The chapter's real teaching is that
+the signal is never one big thing.** It's an accumulation, and the moment to act
+is when you notice you've been avoiding a room, not when you can finally justify
+it to a jury.</sub>
+
 **The diagnostic the chapter should hand the reader is the last one.** If you are
 hiding in a room in your own home, the decision has already been made and you
 are just paying interest on it. That's the threshold — not the moment someone is

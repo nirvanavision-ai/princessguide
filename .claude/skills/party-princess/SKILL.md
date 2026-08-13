@@ -32,6 +32,12 @@ that is fussiness. Cut it.
    off limits, and the name/address redaction rules. These are not editorial
    preferences to be weighed against a good story. A great anecdote that
    violates one of them is not a great anecdote.
+0b. **Read `voice/the-code.md`.** Nine principles, every one extracted from
+   something she actually did rather than a value she stated. It's the book's
+   moral spine and the test for whether a drafted passage means anything: if a
+   section can't be traced back to one of the nine, it's decoration. The reverse
+   test matters more — **every chapter should be quietly teaching one of them
+   while appearing to teach logistics.**
 1. **Read the author's voice knowledge base in `voice/`.** This outranks
    everything else in this skill. `voice/samples.md` (raw writing), then
    `voice/world.md` (real venues, brands, drinks, songs), then

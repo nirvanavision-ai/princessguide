@@ -67,14 +67,23 @@ break-up in the book at all. Her call entirely — flagging, not advising.</sub>
 **Session:** 2026-08-13 · voice note 003. Asked for a hyped night *for book
 purposes*:
 
-> *"The Valentino Con (?) night, when we went out and it wasn't my birthday. Low
-> pressure dressing. I wore like cargo jeans and a crop top, but **people weren't
-> fawning all over me** on my birthday. The music was great. Everything flowed.
-> Our bottle signs said **dance bitches**, and everybody danced a lot."*
+> *"The Valentino Con (?) night… low pressure dressing. I wore like cargo jeans
+> and a crop top, but **people weren't fawning all over me**. The music was
+> great. Everything flowed. Our bottle signs said **dance bitches**, and
+> everybody danced a lot."*
+
+**Clarified 2026-08-13:**
+
+> **"I enjoyed it more because people were not making it about my birthday."**
+
+<sub>So it *was* around her birthday. The good part wasn't the absence of the
+occasion, it was the absence of everyone treating it as one. That's a sharper
+and more useful distinction than the first reading.</sub>
 
 **Read what she just said.** Her best night was the one where she wasn't the
-occasion. Low-pressure dressing, cargo jeans and a crop top, nobody fawning, and
-the whole thing measured by *"everybody danced a lot."*
+occasion, on a night where she was entitled to be. Low-pressure dressing, cargo
+jeans and a crop top, nobody fawning, and the whole thing measured by *"everybody
+danced a lot."*
 
 That is the third time the same instinct has surfaced — *I don't need the
 attention* (Ch. 5), *he tried to take the attention off Kanye onto himself*
@@ -94,8 +103,18 @@ counter-example, and the contrast writes the section by itself.
 lot."* It's an instruction, it's for the room, and it worked. The sign made the
 night more fun for everyone at the table.
 
-**The bad one:** a *"fuck your baby mama"* sign. Her verdict: *"That was a booby
-trap and we left as soon as I got the sign."*
+**The bad one:** **"FUCK MY BABY MAMA."** Her verdict: *"That was a Booby Trap,
+and we left as soon as I got the sign."*
+
+<sub>**Two corrections from the screenshot, 2026-08-13.** The sign reads *fuck
+MY baby mama*, not "your" — which is worse, and funnier, because it's a man
+broadcasting his own domestic situation to a room. And **"Booby Trap" is the
+venue**, a Miami club, not a metaphor. I'd read it as "that was a trap." It
+wasn't. Photo not reproduced anywhere per `voice/boundaries.md`; the sign text
+is enough.</sub>
+
+<sub>Sent by Rose on Saturday 16 May with the caption *"Having Angie
+withdrawals."*</sub>
 
 **The rule the contrast produces:** a bottle sign is an invitation or it's a
 liability. *Dance bitches* points outward and gives the room something to do.

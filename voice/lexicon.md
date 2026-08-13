@@ -200,8 +200,19 @@ candidate for a Ch. 7 pull quote, next to the Sonos protocol.</sub>
 
 The book has three modes. Note how yours differ, if they do.
 
+> **"I sound different, but I am always direct. Straightforward and polite.
+> Depends on the situation."**
+
+<sub>Captured 2026-08-13.</sub>
+
 | Mode | Where it shows up | How you sound here |
 |---|---|---|
-| **Instructional** | checklists, protocols, timelines | |
-| **Storytelling** | the memoir sections | |
-| **Warm** | the care and boundaries material | |
+| **Instructional** | checklists, protocols, timelines | Direct. The driver brief is the model: a numbered ask, a reason, and *"we appreciate you so much, thank you."* Polite is not softening here, it's the close. |
+| **Storytelling** | the memoir sections | Direct and unhedged. You don't build to things, you state the outcome and let the detail land after. *"He poked me in the eye… dumped him after."* |
+| **Warm** | the care and boundaries material | Still direct, and this is the surprising one. *"Let's just put this to bed. Let's sober up. Maybe there's nothing you need to talk about."* You don't get gentler by getting vaguer. |
+
+<sub>**The constant is directness; only the temperature moves.** That's a genuinely
+unusual voice and it's what keeps the warm passages from turning saccharine and
+the instructional ones from turning cold. Wherever a draft starts hedging to
+sound kind, it has left your voice. The politeness is a *close*, not a
+cushion.</sub>
